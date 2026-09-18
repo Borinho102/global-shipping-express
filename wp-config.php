@@ -33,7 +33,7 @@ define('WP_DEBUG_LOG', true);
 
 define('WP_DEBUG_DISPLAY', false);
 
-define('SAVEQUERIES', true );
+define('SAVEQUERIES', false );
 
 define('WP_MEMORY_LIMIT', '512M');
 
@@ -101,6 +101,9 @@ $table_prefix = 'ges_';
 define( 'WP_DEBUG', false );
 
 /* Add any custom values between this line and the "stop editing" line. */
+
+ini_set( 'log_errors', '1' );
+ini_set( 'error_log', __DIR__ . '/wp-content/debug.log' );
 
 
 
