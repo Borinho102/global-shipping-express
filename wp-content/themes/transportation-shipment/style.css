@@ -1,0 +1,332 @@
+/**
+Theme Name: Transportation Shipment
+Theme URI: https://www.themescaliber.com/themes/free-transportation-wordpress-theme/
+Author: ThemesCaliber
+Author URI: https://www.themescaliber.com/
+Version: 1.2
+Requires PHP: 5.6
+Tested up to: 6.3
+Requires at least: 5.0
+Template: logistic-transport
+Text Domain: transportation-shipment
+Description: Transportation Shipment is designed for shipment companies, cargo, and logistics, freight transport, warehouses, logistics storage, moving companies, warehousing services, transportation companies, etc. This Free Theme has a clean and optimized design giving you a much more sophisticated look and the personalization options present with it make it suitable to be used as a multipurpose theme. It comes with a user-friendly interface that allows every user irrespective of their coding or web designing skills possessed, to create a professional website on their own. There is a beautiful slider included along with a banner and testimonial section for a fantastic display of your content. This theme is designed to be responsive so that your viewers will have an outstanding experience of viewing your website on several devices with perfection. The Call to Action Button (CTA) will work for better conversions as well as serve as a guide to the users. The optimized codes will make your web page load fast by giving a faster page load time. There are many social media icons that will allow you to get a fantastic website for promoting and taking your services to a global platform through social media platforms. It is created using the Bootstrap framework and makes use of wonderful CSS animation to make your website look incredible. Demo: https://www.themescaliber.com/transportation-shipment-pro/
+License: GNU General Public License v3.0 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Tags: left-sidebar, right-sidebar, one-column, two-columns, three-columns, four-columns, grid-layout, block-styles, wide-blocks, custom-background, custom-logo, custom-menu, custom-header, editor-style, featured-images, footer-widgets, flexible-header, sticky-post, full-width-template, theme-options, threaded-comments, post-formats, blog, portfolio, e-commerce
+
+Transportation Shipment WordPress Theme is child theme of Logistic Transport WordPress Theme, Copyright 2022 ThemesCaliber
+Transportation Shipment is distributed under the terms of the GNU General Public License v3 or later
+
+Logistic Transport WordPress Theme, Copyright 2018 ThemesCaliber
+Logistic Transport is distributed under the terms of the GNU General Public License v3 or later
+*/
+a{
+	text-decoration: none;
+}
+.search-box button:focus, .request-btn a.blogbutton-small:focus {
+	outline: 2px ridge #fff;
+}
+.services-box .me-2:before, .metabox,.read-btn a.blogbutton-small,#sidebar input[type="submit"],#sidebar th,#sidebar .tagcloud a:hover,#comments input[type="submit"].submit,.footertown th,.footertown input[type="submit"], input[type="submit"],.footertown .tagcloud a:hover,.primary-navigation ul ul a,.woocommerce span.onsale,.woocommerce a.button.alt, .woocommerce button.button, .woocommerce a.button,.woocommerce #respond input#submit, .woocommerce input.button, .woocommerce #respond input#submit.alt, .woocommerce button.button.alt, .woocommerce input.button.alt,#slider .read-btn a.blogbutton-small,#services .service-content,.page-template-custom-frontpage .request-btn a.blogbutton-small,#comments a.comment-reply-link, .pagination .current, .page-links .current, .pagination a:hover, .page-links a:hover, .page-template-custom-frontpage.admin-bar .fixed-header, .fixed-header, .services-box .tc-category a{
+	background:#62e972;
+}
+#sidebar ul li a:hover,.footertown .wp-block-search__label,.footertown .widget h2,.primary-navigation a:hover,.scrollup,.footertown .widget h3,.footertown .widget ul li a:hover,a, a:hover, .footertown a.rsswidget,.scrollup:focus, .scrollup:hover,.request-btn a.blogbutton-small, .topbar .call i, .topbar a:hover, .call:hover i, .social-media a i:hover{
+	color: #62e972;
+}
+nav.woocommerce-MyAccount-navigation ul li,.wp-block-button a, .request-btn a.blogbutton-small{
+	background: #62e972 !important;
+}
+.woocommerce-message,.primary-navigation ul ul, #slider .carousel-control-next i:hover, #slider .carousel-control-prev i:hover{
+	border-color: #62e972;
+}
+.wp-block-pullquote blockquote, .wp-block-quote:not(.is-large):not(.is-style-large){
+	border-color: #62e972 !important;
+}
+#header {
+	background: #000;
+}
+.primary-navigation a:hover, .page-template-custom-frontpage .inner-box, .topbar{
+	background: transparent;
+}
+.primary-navigation ul ul li a, #about h3 a, .request-btn a.blogbutton-small{
+	color: #000;
+}
+.search-box i:hover{
+	color: #62e972;
+}
+.topbar {
+	border-bottom: 1px solid #62e972;
+}
+.social-media a:last-child i {
+	margin: 0 !important;
+}
+.logo h1 a, .logo p a, .logo p, .primary-navigation ul li a, .search-box i {
+	color: #fff;
+}
+.primary-navigation ul li a {
+	position: relative;
+}
+.widget_calendar a{
+	color: #fff;
+}
+.primary-navigation ul li a:before {
+	content: '\f0dd';
+	font-family: 'Font Awesome 5 Free';
+  	font-weight: 900;
+  	color: #62e972;
+  	font-size: 22px;
+  	position: absolute;
+  	top: -1px;
+  	left: 50%;
+  	transform: translateX(-50%);
+  	line-height: 0;
+  	opacity: 0;
+}
+.primary-navigation ul li a:hover:before {
+	opacity: 1;
+}
+.primary-navigation ul ul a:before {
+	display: none;
+}
+.request-btn {
+	display: inline-block;
+	padding-left: 15px;
+	clip-path: polygon(0 0, 100% 0, 100% 100%, 15% 100%);
+	background: rgb(99 233 114 / 40%);
+}
+.request-btn a.blogbutton-small {
+	display: inline-block;
+	border-radius: 0;
+	font-size: 15px;
+	font-weight: 500;
+	padding: 15px 15px 15px 30px;
+	clip-path: polygon(0 0, 100% 0, 100% 100%, 15% 100%);
+}
+.request-btn a.blogbutton-small:hover {
+    background-color: #000 !important;
+    color: #fff !important;
+}
+#slider .read-btn a.blogbutton-small {
+	border-radius: 6px;
+	border: 1px solid #62e972;
+	background: transparent;
+	color: #fff;
+	font-weight: 600;
+}
+#slider .read-btn a.blogbutton-small:hover, #slider .carousel-control-next i:hover, #slider .carousel-control-prev i:hover {
+	background: #62e972;
+	color: #000;
+}
+#slider .carousel-control-next, #slider .carousel-control-prev {
+	width: auto;
+	top: 50%;
+	transform: translateY(-50%);
+	bottom: auto;
+	left: auto;
+	right: 5%;
+}
+#slider .carousel-control-next i, #slider .carousel-control-prev i {
+	padding: 12px 14px;
+	border: 2px solid #fff;
+}
+#slider .carousel-control-prev {
+	margin-top: 50px;
+}
+#about h2 {
+	position: relative;
+	font-size: 25px;
+}
+#about h2:after {
+	content: '';
+	width: 70px;
+	height: 1px;
+	background: #62e972;
+	position: absolute;
+	bottom: 0;
+	left: 50%;
+	transform: translateX(-50%);
+}
+#about .about-img img {
+	width: 85%;
+	border-radius: 10px;
+	box-shadow: 8px -8px 0 rgb(98 233 114 / 30%);
+}
+#about h3 {
+	font-weight: 40px;
+	font-weight: 500;
+}
+#about a.about-btn {
+	background: #62e972;
+	color: #000;
+	font-weight: 500;
+	font-size: 15px;
+	border-radius: 6px;
+	padding: 10px 15px;
+	display: inline-block;
+	margin-top: 10px;
+}
+#about a.about-btn:hover {
+	background: #000;
+	color: #fff;
+}
+#about .about-img  {
+	position: relative;
+}
+#about .about-img .img-text p.experience-text {
+	font-size: 20px;
+	font-weight: 500;
+	transform: rotate(90deg);
+	position: absolute;
+	right: -45px;
+    	top: 85px;
+    	margin-bottom: 0;
+}
+#about .about-img .text-bg {
+	background: #62e972;
+	color: #fff;
+	width: 140px;
+	height: 120px;
+	text-align: center;
+	border-radius: 10px;
+	padding: 15px;
+	box-shadow: -10px -10px 0 #fff;
+	position: absolute;
+	right: 0;
+	bottom: -20px;
+}
+#about .about-img .text-bg i {
+	display: block;
+	font-size: 30px;
+	margin-bottom: 10px;
+}
+#about .about-img .text-bg span {
+	font-weight: 14px;
+	font-weight: 500;
+}
+.read-btn a.blogbutton-small, #slider .read-btn a.blogbutton-small, #comments input[type="submit"].submit, .woocommerce a.button.alt, .woocommerce button.button, .woocommerce a.button, .woocommerce #respond input#submit, .woocommerce input.button, .woocommerce #respond input#submit.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce .quantity .qty {
+	border-radius: 6px !important;
+}
+nav.woocommerce-MyAccount-navigation ul li a {
+	font-weight: 500;
+}
+.woocommerce-MyAccount-content p a {
+	text-decoration: underline;
+}
+#sidebar ul li{
+	padding: 10px 20px 10px 15px;
+}
+#sidebar h3{
+	padding: 12px 10px 10px 5px;
+}
+.woocommerce a.button.product_type_simple.add_to_cart_button.ajax_add_to_cart, .woocommerce a.button.yith-wcqv-button{
+    text-decoration: none !important;
+}
+.product a.button:hover{
+    color: #fff !important
+}
+.tc-single-category a {
+    background: #62e972 !important;
+}
+.tc-single-category a:hover{
+    background: #000 !important;
+}
+.bradcrumbs a,.bradcrumbs span{
+	background: #62e972 !important;
+}
+.woocommerce-product-search button[type="submit"]{
+	background: #62e972;
+}
+#sidebar h3, #sidebar h2, #sidebar .wp-block-search__label,.footertown .wp-block-search__label{
+	border-bottom: 2px double #62e972;
+}
+.wp-block-search__button,.wp-block-tag-cloud a:hover,.footertown .wp-block-tag-cloud a:hover{
+	background-color: #62e972;
+}
+.wp-block-tag-cloud a:hover,.footertown .wp-block-tag-cloud a:hover,.footertown .tagcloud a:hover,#sidebar .tagcloud a:hover{
+	border: 1px solid #62e972;
+}
+#main .wp-block-button a:hover{
+	background: #000 !important;
+    color: #fff;
+    border: 1px solid #000;
+}
+#main .is-style-outline a:hover {
+    color: #000 !important;
+    background: transparent !important;
+    border: 2px solid #000;
+}
+#respond{
+	margin-top: 20px;
+}
+@media screen and (max-width: 1000px){
+	.site_header, .toggle-menu, .search-box, .menubox.nav {
+		background: transparent;
+	}
+	.page-template-custom-frontpage .request-btn a.blogbutton-small, .toggle-menu i {
+		background: #62e972 !important;
+		color: #000;
+	}
+	.side-menu {
+		background: #62e972 ;
+	}
+	.primary-navigation ul li a {
+		color: #000;
+	}
+	.primary-navigation ul li a:before {
+		display: none;
+	}
+	.primary-navigation ul a, .side-menu .closebtn{
+		color:#000 !important;
+	}
+}
+@media screen and (max-width: 1024px) and (min-width: 1000px) {
+	#about .about-img .img-text p.experience-text {
+		right: -50px;
+	}
+	#services{
+		padding-top: 5rem !important;
+	}
+	#slider .carousel-caption{
+		top: 50%;
+		padding-top: 0rem;
+	}
+	.carousel-caption .read-btn{
+		margin-top: 0.5rem !important;
+	}
+	.carousel-caption h1{
+		margin-bottom: 0rem !important;
+	}
+	#services .service-box{
+		margin-top: -8em;
+	}
+}
+@media screen and (max-width: 768px) and (min-width: 426px) {
+	.page-template-custom-frontpage #header {
+		background: #000;
+	}
+	#about .about-img .img-text p.experience-text {
+		right: -70px;
+	}
+}
+@media screen and (max-width: 425px) {
+	.page-template-custom-frontpage #header {
+		background: #000;
+	}
+	#about .about-img .text-bg {
+		position: relative;
+		margin-left: auto;
+		margin-top: -10px;
+		bottom: auto;
+	}
+	#about .about-img .img-text p.experience-text {
+		right: -80px;
+	}
+	#slider .carousel-control-next i, #slider .carousel-control-prev i {
+		padding: 8px 10px;
+	}
+	#slider .carousel-control-prev {
+		margin-top: 40px;
+	}
+	#slider .carousel-control-next, #slider .carousel-control-prev {
+		top: 40%;
+	}
+}

@@ -1,0 +1,51 @@
+.transportation-shipment-banner-section .wp-block-button__link,.transportation-shipment-learn-more-section h3,.transportation-shipment-learn-more-section .wp-block-button__link,.transportation-shipment-about-section h2,.transportation-shipment-about-section h3,.transportation-shipment-about-section h4,.transportation-shipment-about-text-section .wp-block-button__link{
+    font-family: 'Montserrat', sans-serif;
+}
+.transportation-shipment-banner-section h1{
+   font-family: Abril Fatface!important;
+}
+/*digital-agency-banner-section*/
+.transportation-shipment-banner-section .wp-block-button__link {
+    border-radius: 6px !important;
+    font-weight: 700;
+    font-size: 16px;
+    color: #fff !important;
+    border: 1px solid #62e972;
+    background: transparent !important;
+}
+.transportation-shipment-banner-section .wp-block-button__link:hover {
+    color: #000 !important;
+    background: #62e972 !important;
+    box-shadow: none;
+}
+.transportation-shipment-shipping-section .wp-block-image {
+    margin-top: 0px;
+}
+.transportation-shipment-banner-section {
+    position: relative;
+}
+.transportation-shipment-about-text-section .wp-block-button__link{
+    font-weight: 600;
+    border-radius: 0 6px 0 6px;
+    padding: 10px 17px;
+    text-decoration: none !important;
+    border-radius: 6px !important;
+}
+.transportation-shipment-about-text-section .wp-block-button__link:hover{
+   background-color: #000 !important;
+   color: #fff !important;
+}
+/*digital-agency-aboutus-section*/
+.transportation-shipment-about-section h2{
+   font-weight: bold;
+}
+.transportation-shipment-about-section h2:after {
+    content: '';
+    padding: 1px;
+    background: #62e972;
+    opacity: 1;
+    display: block;
+    width: 8%;
+    margin-left: 46%;
+    top: auto !important;
+}

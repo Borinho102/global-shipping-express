@@ -1,0 +1,1064 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Logistic Transport\n"
+"POT-Creation-Date: 2016-02-11 19:00+0530\n"
+"PO-Revision-Date: 2021-11-27 12:10+0530\n"
+"Language-Team: ThemesCaliber <support@themescaliber.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: tr\n"
+
+#: 404.php:13
+msgid "404 Not Found"
+msgstr "404 Bulunamadı"
+
+#: 404.php:16
+msgid ""
+"Looks like you have taken a wrong turn. Dont worry it happens to the best of "
+"us."
+msgstr ""
+"Görünüşe göre yanlış yola girmişsin. Endişelenme, en iyimizin başına gelir."
+
+#: 404.php:20
+msgid "Return to Home Page"
+msgstr "Ana Sayfaya Dön"
+
+#: comments.php:23
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "& Ldquo;% s & rdquo; hakkında bir düşünce"
+
+#: comments.php:32
+msgid "comments title"
+msgstr "yorum başlığı"
+
+#: comments.php:58
+msgid "Comments are closed."
+msgstr "Yoruma kapalı."
+
+#: comments.php:64 inc/customizer.php:1516 customizer.php:1526
+msgid "Leave a Reply"
+msgstr "Cevap bırakın"
+
+#: comments.php:65 inc/customizer.php:1526 customizer.php:1536
+msgid "Post Comment"
+msgstr "Yorum Gönder"
+
+#: footer.php:51 functions.php:110
+msgid "By ThemesCaliber"
+msgstr "Temalara göreCalibre"
+
+#: footer.php:58 footer.php:60 footer.php:62 inc/customizer.php:1718
+#: customizer.php:1728
+msgid "Back to Top"
+msgstr "Başa dönüş"
+
+#: functions.php:34 functions.php:115
+msgid "Primary Menu"
+msgstr "Ana Menü"
+
+#: functions.php:101
+msgid "example@gmail.com"
+msgstr "örnek@gmail.com"
+
+#: functions.php:102
+msgid "Mon to Fri 8:00am-5:00pm"
+msgstr "Pazartesiden Cumaya 08:00-17:00"
+
+#: functions.php:103
+msgid "Request A Rate"
+msgstr "Fiyat İste"
+
+#: functions.php:139
+msgid "Blog Sidebar"
+msgstr "Blog Kenar Çubuğu"
+
+#: functions.php:140
+msgid "Appears on blog page sidebar"
+msgstr "Blog sayfası kenar çubuğunda görünür"
+
+#: functions.php:149
+msgid "Page Sidebar"
+msgstr "Sayfa Kenar Çubuğu"
+
+#: functions.php:150 functions.php:160
+msgid "Appears on Page sidebar"
+msgstr "Sayfa kenar çubuğunda görünür"
+
+#: functions.php:159
+msgid "Third Column Sidebar"
+msgstr "Üçüncü Sütun Kenar Çubuğu"
+
+#: functions.php:172
+msgid "Footer Nav "
+msgstr "Altbilgi Gezinme"
+
+#: functions.php:460
+msgid "Transport WordPress Theme"
+msgstr "Transport WordPress Teması"
+
+#: header.php:47
+msgid "Skip to content"
+msgstr "İçeriğe geç"
+
+#: header.php:85
+msgid "Phone Number"
+msgstr "Telefon numarası"
+
+#: header.php:92
+msgid "Email"
+msgstr "E-posta adresi"
+
+#: header.php:106
+msgid "Facebook"
+msgstr "Facebook"
+
+#: header.php:109
+msgid "Twitter"
+msgstr "Twitter"
+
+#: header.php:112
+msgid "Instagram"
+msgstr "Instagram"
+
+#: header.php:115
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: header.php:118
+msgid "Youtube"
+msgstr "Youtube"
+
+#: header.php:129
+msgid "Open Menu"
+msgstr "Menüyü Aç"
+
+#: header.php:132
+msgid "Top Menu"
+msgstr "Üst Menü"
+
+#: header.php:142
+msgid "Close Menu"
+msgstr "Menüyü Kapat"
+
+#: header.php:155
+msgid "Request a Date"
+msgstr "Tarih İste"
+
+#: image.php:35 image.php:71 image.php:106 image.php:141 image.php:179
+#: image.php:217 image.php:254 page.php:27 page-template/left-sidebar.php:24
+#: page-template/right-sidebar.php:21 template-parts/single-post.php:45
+msgid "Pages:"
+msgstr "Sayfalar:"
+
+#: image.php:40 image.php:76 image.php:111 image.php:146 image.php:187
+#: image.php:225 image.php:259
+msgid "Edit"
+msgstr "Düzenle"
+
+#: search.php:18 search.php:46 search.php:72 search.php:98 search.php:127
+#: search.php:156 search.php:186
+msgid "Results For: %s"
+msgstr "Sonuçlar:% s"
+
+#: functions.php:500
+msgid "Previous page"
+msgstr "Önceki sayfa"
+
+#: functions.php:501
+msgid "Next page"
+msgstr "Sonraki Sayfa"
+
+#: functions.php:502 template-parts/single-post.php:53
+msgid "page"
+msgstr "sayfa"
+
+#: no-results.php:12
+msgid "Nothing Found"
+msgstr "Hiçbirşey Bulunamadı"
+
+#: no-results.php:17
+msgid "Ready to publish your first post? Get started here."
+msgstr "İlk paylaşımını yapmak için hazır mısın? Buradan başla."
+
+#: no-results.php:19
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Maalesef arama terimlerinizle hiçbir şey eşleşmedi. Lütfen farklı anahtar "
+"kelimelerle tekrar deneyin."
+
+#: no-results.php:22
+msgid "Dont worry it happens to the best of us."
+msgstr "Endişelenme, en iyimizin başına gelir."
+
+#: no-results.php:24
+msgid "Back to Home Page"
+msgstr "Ana sayfaya geri dön"
+
+#: searchform.php:10
+msgid "Search for:"
+msgstr "Aramak:"
+
+#: searchform.php:11 searchform.php:13
+msgid "Search"
+msgstr "Arama"
+
+#: searchform.php:11
+msgid "Placeholder"
+msgstr "Yer tutucu"
+
+#: searchform.php:13
+msgid "Submit Button"
+msgstr "Gönder Düğmesi"
+
+#: sidebar.php:11
+msgid "Archives"
+msgstr "Arşivler"
+
+#: sidebar.php:17
+msgid "Meta"
+msgstr "Meta"
+
+#: template-parts/single-post.php:66
+msgid "Parent Post Link"
+msgstr "Ana Gönderi Bağlantısı"
+
+#: template-parts/single-post.php:75 template-parts/single-post.php:76
+msgid "Next Post"
+msgstr "Sonraki Gönderi"
+
+#: template-parts/single-post.php:67 template-parts/single-post.php:68
+msgid "Previous Post"
+msgstr "Önceki yazı"
+
+#: page-template/custom-frontpage.php:46 template-parts/content-audio.php:66
+#: template-parts/content-gallery.php:57 template-parts/content-image.php:54
+#: template-parts/content-video.php:66 template-parts/grid-layout.php:33
+#: template-parts/content.php:52 template-parts/related-posts.php:79
+#: inc/customizer.php:975 customizer.php:975 customizer.php:1368
+msgid "Read More"
+msgstr "Devamını oku"
+
+#: page-template/custom-frontpage.php:35
+msgid "Slider Image"
+msgstr "Kaydırıcı Resmi"
+
+#: page-template/custom-frontpage.php:61
+msgid "Previous"
+msgstr "Önceki"
+
+#: page-template/custom-frontpage.php:64
+msgid "Next"
+msgstr "Sonraki"
+
+#: page-template/custom-frontpage.php:86 customizer.php:1181
+msgid "LEARN MORE"
+msgstr "DAHA FAZLA BİLGİ EDİN"
+
+#: template-parts/content-audio.php:52 template-parts/content-gallery.php:43
+#: template-parts/content-image.php:40 template-parts/content-video.php:52
+#: template-parts/content.php:38 template-parts/single-post.php:28
+msgid "0 Comments"
+msgstr "0 Yorum"
+
+#: template-parts/related-posts.php:57
+msgid "Related Posts"
+msgstr "İlgili Mesajlar"
+
+#: inc/logo/logo-width.php:19
+msgid "Logo Width"
+msgstr "Logo Genişliği"
+
+#: inc/logo/logo-width.php:41
+msgid "Show / Hide Site Title"
+msgstr "Site Başlığını Göster / Gizle"
+
+#: inc/logo/logo-width.php:50
+msgid "Site Title Font Size"
+msgstr "Site Başlığı Yazı Tipi Boyutu"
+
+#: inc/logo/logo-width.php:66
+msgid "Show / Hide Site Description"
+msgstr "Site Açıklamasını Göster / Gizle"
+
+#: inc/logo/logo-width.php:75
+msgid "Site Description Font Size"
+msgstr "Site Açıklama Yazı Tipi Boyutu"
+
+#: customizer.php:40
+msgid "Theme Settings"
+msgstr "Tema ayarları"
+
+#: customizer.php:140
+msgid "Color / Font Pallete"
+msgstr "Renk / Yazı Tipi Paleti"
+
+#: customizer.php:172
+msgid "Paragraph Color"
+msgstr "Paragraf Rengi"
+
+#: customizer.php:186
+msgid "Paragraph Fonts"
+msgstr "Paragraf Yazı Tipleri"
+
+#: customizer.php:196
+msgid "Paragraph Font Size"
+msgstr "Paragraf Yazı Tipi Boyutu"
+
+#: customizer.php:208
+msgid "\"a\" Tag Color"
+msgstr "\"a\" Etiket Rengi"
+
+#: customizer.php:222
+msgid "\"a\" Tag Fonts"
+msgstr "\"a\" Yazı Tiplerini Etiketleme"
+
+#: customizer.php:233
+msgid "\"li\" Tag Color"
+msgstr "\"li\" Etiket Rengi"
+
+#: customizer.php:247
+msgid "\"li\" Tag Fonts"
+msgstr "\"li\" Etiket Yazı Tipleri"
+
+#: customizer.php:258
+msgid "h1 Color"
+msgstr "h1 Renk"
+
+#: customizer.php:272
+msgid "h1 Fonts"
+msgstr "h1 Yazı Tipleri"
+
+#: customizer.php:283
+msgid "h1 Font Size"
+msgstr "h1 Yazı Tipi Boyutu"
+
+#: customizer.php:295
+msgid "h2 Color"
+msgstr "h2 Renk"
+
+#: customizer.php:309
+msgid "h2 Fonts"
+msgstr "h2 Yazı Tipleri"
+
+#: customizer.php:320
+msgid "h2 Font Size"
+msgstr "h2 Yazı Tipi Boyutu"
+
+#: customizer.php:332
+msgid "h3 Color"
+msgstr "h3 Renk"
+
+#: customizer.php:346
+msgid "h3 Fonts"
+msgstr "h3 Yazı Tipleri"
+
+#: customizer.php:357
+msgid "h3 Font Size"
+msgstr "h3 Yazı Tipi Boyutu"
+
+#: customizer.php:369
+msgid "h4 Color"
+msgstr "h4 Renk"
+
+#: customizer.php:383
+msgid "h4 Fonts"
+msgstr "h4 Yazı Tipleri"
+
+#: customizer.php:394
+msgid "h4 Font Size"
+msgstr "h4 Yazı Tipi Boyutu"
+
+#: customizer.php:406
+msgid "h5 Color"
+msgstr "h5 Renk"
+
+#: customizer.php:420
+msgid "h5 Fonts"
+msgstr "h5 Yazı Tipleri"
+
+#: customizer.php:431
+msgid "h5 Font Size"
+msgstr "h5 Yazı Tipi Boyutu"
+
+#: customizer.php:443
+msgid "h6 Color"
+msgstr "h6 Renk"
+
+#: customizer.php:457
+msgid "h6 Fonts"
+msgstr "h6 Yazı Tipleri"
+
+#: customizer.php:468
+msgid "h6 Font Size"
+msgstr "h6 Yazı Tipi Boyutu"
+
+#: customizer.php:476
+msgid "Theme Layout Settings"
+msgstr "Tema Düzeni Ayarları"
+
+#: customizer.php:487
+msgid "Select Site Layout"
+msgstr "Site Düzenini Seçin"
+
+#: customizer.php:490
+msgid "Full Layout"
+msgstr "Tam Düzen"
+
+#: customizer.php:491
+msgid "Contained Layout"
+msgstr "İçerdiği Düzen"
+
+#: customizer.php:492
+msgid "Boxed Layout"
+msgstr "Kutulu Düzen"
+
+#: customizer.php:504
+msgid "Do you want this section"
+msgstr "Bu bölümü istiyormusun"
+
+#: customizer.php:507
+msgid "Left Sidebar"
+msgstr "Sol Kenar Çubuğu"
+
+#: customizer.php:508
+msgid "Right Sidebar"
+msgstr "Sağ Kenar Çubuğu"
+
+#: customizer.php:509
+msgid "One Column"
+msgstr "Bir Sütun"
+
+#: customizer.php:510
+msgid "Three Columns"
+msgstr "Üç Sütun"
+
+#: customizer.php:511
+msgid "Four Columns"
+msgstr "Dört Sütun"
+
+#: customizer.php:512
+msgid "Grid Layout"
+msgstr "Izgara Düzeni"
+
+#: customizer.php:519
+msgid "Social Icons"
+msgstr "Sosyal Simgeler"
+
+#: customizer.php:538
+msgid "Facebook Icon"
+msgstr "Facebook Simgesi"
+
+#: customizer.php:548
+msgid "Add Facebook link"
+msgstr "Facebook bağlantısı ekle"
+
+#: customizer.php:560
+msgid "Twitter Icon"
+msgstr "Twitter Simgesi"
+
+#: customizer.php:570
+msgid "Add Twitter link"
+msgstr "Twitter bağlantısı ekle"
+
+#: customizer.php:582
+msgid "Instagram Icon"
+msgstr "Instagram Simgesi"
+
+#: customizer.php:592
+msgid "Add Instagram link"
+msgstr "Instagram bağlantısı ekle"
+
+#: customizer.php:604
+msgid "Linkedin Icon"
+msgstr "Linkedin Simgesi"
+
+#: customizer.php:614
+msgid "Add Linkedin link"
+msgstr "Linkedin bağlantısı ekle"
+
+#: customizer.php:626
+msgid "Youtube Icon"
+msgstr "Youtube simgesi"
+
+#: customizer.php:636
+msgid "Add Youtube link"
+msgstr "Youtube bağlantısı ekle"
+
+#: customizer.php:644
+msgid "Header"
+msgstr "başlık"
+
+#: customizer.php:664 customizer.php:1875
+msgid "Show / Hide Topbar"
+msgstr "Üst Çubuğu Göster / Gizle"
+
+#: customizer.php:673
+msgid "Topbar Top Bottom Padding"
+msgstr "Topbar Üst Alt Dolgu"
+
+#: customizer.php:689
+msgid "Search Icon"
+msgstr "Arama Simgesi"
+
+#: customizer.php:700
+msgid "Sticky Header"
+msgstr "Yapışkan Başlık"
+
+#: customizer.php:709
+msgid "Sticky Header Padding"
+msgstr "Yapışkan Başlık Dolgusu"
+
+#: customizer.php:725
+msgid "Phone Icon"
+msgstr "Telefon Simgesi"
+
+#: customizer.php:735
+msgid "Call Number"
+msgstr "Çağrı Numarası"
+
+#: customizer.php:747
+msgid "Mail Icon"
+msgstr "Posta Simgesi"
+
+#: customizer.php:757
+msgid "Email Address"
+msgstr "E"
+
+#: customizer.php:769
+msgid "Time Icon"
+msgstr "Zaman Simgesi"
+
+#: customizer.php:779
+msgid "Time"
+msgstr "Zaman"
+
+#: customizer.php:798
+msgid "Add Button Text"
+msgstr "Düğme Metni Ekle"
+
+#: customizer.php:809
+msgid "Add Button url"
+msgstr "Düğme URL'si Ekle"
+
+#: customizer.php:821
+msgid "Navigation Case"
+msgstr "Navigasyon Kılıfı"
+
+#: customizer.php:824
+msgid "Uppercase"
+msgstr "büyük harf"
+
+#: customizer.php:825
+msgid "Capitalize"
+msgstr "Büyük harf kullan"
+
+#: customizer.php:834
+msgid "Navigation Font Size"
+msgstr "Gezinme Yazı Tipi Boyutu"
+
+#: customizer.php:851 customizer.php:1905
+msgid "Show / Hide Preloader"
+msgstr "Ön Yükleyiciyi Göster / Gizle"
+
+#: customizer.php:860
+msgid "Preloader Type"
+msgstr "Ön Yükleyici Tipi"
+
+#: customizer.php:865
+msgid "Center Square"
+msgstr "Merkez Meydanı"
+
+#: customizer.php:866
+msgid "Chasing Square"
+msgstr "Kovalayan Kare"
+
+#: customizer.php:892
+msgid "Slider Settings"
+msgstr "Kaydırıcı Ayarları"
+
+#: customizer.php:911
+msgid "Show / Hide slider"
+msgstr "Kaydırıcıyı göster / gizle"
+
+#: customizer.php:921
+msgid "Select Slide Image Page"
+msgstr "Slayt Resmi Sayfasını Seçin"
+
+#: customizer.php:933
+msgid "Show / Hide slider Title"
+msgstr "Kaydırıcı Başlığını Göster / Gizle"
+
+#: customizer.php:943
+msgid "Show / Hide slider Content"
+msgstr "Kaydırıcı İçeriğini Göster / Gizle"
+
+#: customizer.php:953
+msgid "Show / Hide slider Button"
+msgstr "Kaydırıcıyı Göster / Gizle Düğmesi"
+
+#: customizer.php:963
+msgid "Slider Excerpt length"
+msgstr "Slider Alıntı uzunluğu"
+
+#: customizer.php:979
+msgid "Slider Button text"
+msgstr "Kaydırıcı Düğme metni"
+
+#: customizer.php:991
+msgid "Show / Hide Slider Image Overlay"
+msgstr "Kaydırıcı Görüntü Bindirmesini Göster / Gizle"
+
+#: customizer.php:1000
+msgid "Slider Overlay Color"
+msgstr "Kaydırıcı Yerleşimi Rengi"
+
+#: customizer.php:1010
+msgid "Slider Image Opacity"
+msgstr "Kaydırıcı Görüntü Şeffaflığı"
+
+#: customizer.php:1035
+msgid "Slider Content Alignment"
+msgstr "Slider İçerik Hizalaması"
+
+#: customizer.php:1038 customizer.php:1748 customizer.php:1798
+msgid "Center"
+msgstr "merkez"
+
+#: customizer.php:1039 customizer.php:1087 customizer.php:1746
+#: customizer.php:1796 customizer.php:2107
+msgid "Left"
+msgstr "Ayrıldı"
+
+#: customizer.php:1040 customizer.php:1102 customizer.php:1747
+#: customizer.php:1797 customizer.php:2108
+msgid "Right"
+msgstr "Sağ"
+
+#: customizer.php:1048
+msgid "Slider Content Spacing"
+msgstr "Kaydırıcı İçerik Aralığı"
+
+#: customizer.php:1057 customizer.php:1468
+msgid "Top"
+msgstr "Tepe"
+
+#: customizer.php:1072 customizer.php:1469
+msgid "Bottom"
+msgstr "Alt"
+
+#: customizer.php:1117
+msgid "Slider Speed"
+msgstr "Kaydırıcı Hızı"
+
+#: customizer.php:1132
+msgid "Slider Height"
+msgstr "Kaydırıcı Yüksekliği"
+
+#: customizer.php:1144
+msgid "Services Section"
+msgstr "Hizmetler Bölümü"
+
+#: customizer.php:1175
+msgid "Select Category to display Latest Post"
+msgstr "Son Gönderiyi görüntülemek için Kategori seçin"
+
+#: customizer.php:1176
+msgid "Size of image should be 80 x 80 "
+msgstr "Resmin boyutu 80 x 80 olmalıdır"
+
+#: customizer.php:1185
+msgid "Services Button text"
+msgstr "Hizmetler Düğme metni"
+
+#: customizer.php:1193
+msgid "About Section"
+msgstr "Bölüm Hakkında"
+
+#: customizer.php:1219
+msgid "Select post"
+msgstr "Gönderi seçin"
+
+#: customizer.php:1228 customizer.php:1345
+msgid "Post Excerpt Length"
+msgstr "Alıntı Uzunluğu"
+
+#: customizer.php:1241
+msgid "Post Settings"
+msgstr "Gönderi Ayarları"
+
+#: customizer.php:1251
+msgid "Enable / Disable Post Date"
+msgstr "Gönderi Tarihini Etkinleştir / Devre Dışı Bırak"
+
+#: customizer.php:1261
+msgid "Enable / Disable Post Author"
+msgstr "Gönderi Yazarını Etkinleştir / Devre Dışı Bırak"
+
+#: customizer.php:1271
+msgid "Enable / Disable Post Comments"
+msgstr "Gönderi Yorumlarını Etkinleştir / Devre Dışı Bırak"
+
+#: customizer.php:1281
+msgid "Enable / Disable Post Time"
+msgstr "Gönderi Süresini Etkinleştir / Devre Dışı Bırak"
+
+#: customizer.php:1291
+msgid "Enable / Disable Featured Image"
+msgstr "Öne Çıkan Resmi Etkinleştir / Devre Dışı Bırak"
+
+#: customizer.php:1300
+msgid "Featured image border radius"
+msgstr "Öne çıkan resim kenarlığı yarıçapı"
+
+#: customizer.php:1315
+msgid "Featured image box shadow"
+msgstr "Öne çıkan resim kutusu gölgesi"
+
+#: customizer.php:1331
+msgid "Post Content Type"
+msgstr "Yayın İçeriği Türü"
+
+#: customizer.php:1334
+msgid "No Content"
+msgstr "İçerik yok"
+
+#: customizer.php:1335
+msgid "Full Content"
+msgstr "Tam İçerik"
+
+#: customizer.php:1336
+msgid "Excerpt Content"
+msgstr "Alıntı İçeriği"
+
+#: customizer.php:1357
+msgid "[...]"
+msgstr "[...]"
+
+#: customizer.php:1361
+msgid "Excerpt Suffix"
+msgstr "Alıntı Soneki"
+
+#: customizer.php:1372
+msgid "Post Button Text"
+msgstr "Düğme Metni Gönder"
+
+#: customizer.php:1383
+msgid "Top Bottom Button Padding"
+msgstr "Üst Alt Düğme Dolgusu"
+
+#: customizer.php:1398
+msgid "Left Right Button Padding"
+msgstr "Sol Sağ Düğme Dolgusu"
+
+#: customizer.php:1413 customizer.php:2018
+msgid "Button Border Radius"
+msgstr "Düğme Kenarlığı Yarıçapı"
+
+#: customizer.php:1430
+msgid "Post blocks"
+msgstr "Gönderi blokları"
+
+#: customizer.php:1432
+msgid "Within box"
+msgstr "kutu içinde"
+
+#: customizer.php:1433
+msgid "Without box"
+msgstr "Kutu olmadan"
+
+#: customizer.php:1442
+msgid "Enable / Disable Post Navigation"
+msgstr "Sonradan Gezinmeyi Etkinleştir / Devre Dışı Bırak"
+
+#: customizer.php:1453
+msgid "Post Navigation Type"
+msgstr "Posta Gezinti Türü"
+
+#: customizer.php:1455
+msgid "Number"
+msgstr "Sayı"
+
+#: customizer.php:1456
+msgid "Next/Prev Button"
+msgstr "Sonraki/Önceki Düğmesi"
+
+#: customizer.php:1466
+msgid "Post Navigation Position"
+msgstr "Navigasyon Sonrası Pozisyonu"
+
+#: customizer.php:1470
+msgid "Both"
+msgstr "Her ikisi de"
+
+#: customizer.php:1475
+msgid "Single Post Settings"
+msgstr "Tek Gönderi Ayarları"
+
+#: customizer.php:1485
+msgid "Enable / Disable Feature Image"
+msgstr "Özellik Resmini Etkinleştir / Devre Dışı Bırak"
+
+#: customizer.php:1495
+msgid "Enable / Disable Tags"
+msgstr "Etiketleri Etkinleştir / Devre Dışı Bırak"
+
+#: customizer.php:1505
+msgid "Enable / Disable Comment"
+msgstr "Yorumu Etkinleştir / Devre Dışı Bırak"
+
+#: customizer.php:1514
+msgid "Comment Textarea Width"
+msgstr "Yorum Metin Alanı Genişliği"
+
+#: customizer.php:1531
+msgid "Comment form Title"
+msgstr "Yorum formu Başlık"
+
+#: customizer.php:1541
+msgid "Comment Button Text"
+msgstr "Yorum Düğmesi Metni"
+
+#: customizer.php:1551
+msgid "Enable / Disable Nav Links"
+msgstr "Gezinme Bağlantılarını Etkinleştir / Devre Dışı Bırak"
+
+#: customizer.php:1561
+msgid "Previous Navigation Text"
+msgstr "Önceki Gezinti Metni"
+
+#: customizer.php:1571
+msgid "Next Navigation Text"
+msgstr "Sonraki Gezinme Metni"
+
+#: customizer.php:1581
+msgid "Enable / Disable Related Posts"
+msgstr "İlgili Gönderileri Etkinleştir / Devre Dışı Bırak"
+
+#: customizer.php:1591
+msgid "Related Posts Title"
+msgstr "İlgili Yazılar Başlığı"
+
+#: customizer.php:1600
+msgid "Related Posts Count"
+msgstr "İlgili Mesaj Sayısı"
+
+#: customizer.php:1618
+msgid "Related Posts Order By"
+msgstr "İlgili Yazılar Sırala"
+
+#: customizer.php:1620
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: customizer.php:1621
+msgid "Tags"
+msgstr "Etiketler"
+
+#: customizer.php:1626
+msgid "404 & No Result Page Settings"
+msgstr "404 ve Sonuç Yok Sayfası Ayarları"
+
+#: customizer.php:1637
+msgid "404 Page Title"
+msgstr "404 Sayfa Başlığı"
+
+#: customizer.php:1647
+msgid "404 Page Text"
+msgstr "404 Sayfa Metni"
+
+#: customizer.php:1657
+msgid "404 Page Button Text"
+msgstr "404 Sayfa Düğme Metni"
+
+#: customizer.php:1667
+msgid "No Result Page Title"
+msgstr "Sonuç Sayfası Başlığı Yok"
+
+#: customizer.php:1677
+msgid "No Result Page Text"
+msgstr "Sonuç Sayfası Metni Yok"
+
+#: customizer.php:1687
+msgid "Show/Hide Search Form"
+msgstr "Arama Formunu Göster/Gizle"
+
+#: customizer.php:1693
+msgid "Footer Section"
+msgstr "Altbilgi Bölümü"
+
+#: customizer.php:1712
+msgid "Show/Hide Back to Top Button"
+msgstr "Başa Dön Düğmesini Göster/Gizle"
+
+#: customizer.php:1722
+msgid "Back to Top Icon"
+msgstr "Başa Dön Simgesi"
+
+#: customizer.php:1732
+msgid "Back to Top Button Text"
+msgstr "Başa Dön Düğme Metni"
+
+#: customizer.php:1743
+msgid "Back to Top Button Alignment"
+msgstr "Başa Dön Düğme Hizalama"
+
+#: customizer.php:1757
+msgid "Footer Background Color"
+msgstr "Altbilgi Arka Plan Rengi"
+
+#: customizer.php:1766
+msgid "Footer Background Image"
+msgstr "Altbilgi Arka Plan Resmi"
+
+#: customizer.php:1776
+msgid "Footer widget layout"
+msgstr "Altbilgi widget düzeni"
+
+#: customizer.php:1778
+msgid ""
+"Select the number of widget areas you want in the footer. After that, go to "
+"Appearance > Widgets and add your widgets."
+msgstr ""
+"Alt bilgide istediğiniz widget alanı sayısını seçin. Bundan sonra, Görünüm> "
+"Pencere Öğeleri'ne gidin ve pencere öğelerini ekleyin."
+
+#: customizer.php:1780
+msgid "One"
+msgstr "Bir"
+
+#: customizer.php:1781
+msgid "Two"
+msgstr "İki"
+
+#: customizer.php:1782
+msgid "Three"
+msgstr "Üç"
+
+#: customizer.php:1783
+msgid "Four"
+msgstr "Dört"
+
+#: customizer.php:1793
+msgid "Copyright Alignment"
+msgstr "Telif Hakkı Hizalaması"
+
+#: customizer.php:1807
+msgid "Copyright Font Size"
+msgstr "Telif Hakkı Yazı Tipi Boyutu"
+
+#: customizer.php:1817
+msgid "Copyright Top Bottom Padding"
+msgstr "Telif Hakkı Üst Alt Dolgu"
+
+#: customizer.php:1835
+msgid "Copyright Text"
+msgstr "Telif Hakkı Metni"
+
+#: customizer.php:1842
+msgid "Mobile Media Options"
+msgstr "Mobil Medya Seçenekleri"
+
+#: customizer.php:1853
+msgid "Open Menu Icon"
+msgstr "Menü Simgesini Aç"
+
+#: customizer.php:1864
+msgid "Close Menu Icon"
+msgstr "Menü Simgesini Kapat"
+
+#: customizer.php:1885
+msgid "Show / Hide Slider"
+msgstr "Kaydırıcıyı Göster / Gizle"
+
+#: customizer.php:1895
+msgid "Show / Hide Back to Top Button"
+msgstr "Başa Dön Düğmesini Göster / Gizle"
+
+#: customizer.php:1911
+msgid "Additional WooCommerce Options"
+msgstr "Ek WooCommerce Seçenekleri"
+
+#: customizer.php:1923
+msgid "Product per row"
+msgstr "Satır başına ürün"
+
+#: customizer.php:1938
+msgid "Product per page"
+msgstr "Sayfa başına ürün"
+
+#: customizer.php:1949
+msgid "Enable / Disable Shop page sidebar"
+msgstr "Mağaza sayfası kenar çubuğunu Etkinleştir / Devre Dışı Bırak"
+
+#: customizer.php:1959
+msgid "Enable / Disable Shop page pagination"
+msgstr "Mağaza sayfası sayfalandırmasını Etkinleştir / Devre Dışı Bırak"
+
+#: customizer.php:1969
+msgid "Enable / Disable Product page sidebar"
+msgstr "Ürün sayfası kenar çubuğunu Etkinleştir / Devre Dışı Bırak"
+
+#: customizer.php:1979
+msgid "Enable / Disable Related product"
+msgstr "İlgili ürünü Etkinleştir / Devre Dışı Bırak"
+
+#: customizer.php:1988
+msgid "Button Top Bottom Padding"
+msgstr "Düğme Üst Alt Dolgu"
+
+#: customizer.php:2003
+msgid "Button Right Left Padding"
+msgstr "Düğme Sağ Sol Dolgu"
+
+#: customizer.php:2034
+msgid "Enable / Disable product border"
+msgstr "Ürün sınırını etkinleştir / devre dışı bırak"
+
+#: customizer.php:2043
+msgid "Product Top Bottom Padding"
+msgstr "Ürün Üst Alt Dolgu"
+
+#: customizer.php:2058
+msgid "Product Right Left Padding"
+msgstr "Ürün Sağ Sol Dolgu"
+
+#: customizer.php:2073
+msgid "Product Border Radius"
+msgstr "Ürün Kenar Yarıçapı"
+
+#: customizer.php:2088
+msgid "Product Box Shadow"
+msgstr "Ürün Kutu Farı"
+
+#: customizer.php:2104
+msgid "Sale badge Position"
+msgstr "Satış rozeti Pozisyon"
+
+#: customizer.php:2117
+msgid "Sale Top Bottom Padding"
+msgstr "Satılık Üst Alt Dolgu"
+
+#: customizer.php:2132
+msgid "Sale Right Left Padding"
+msgstr "Satılık Sağ Sol Dolgu"
+
+#: customizer.php:2147
+msgid "Sale Border Radius"
+msgstr "Satış Sınır Yarıçapı"
+
+#: customizer.php:2162
+msgid "Sale Font Size"
+msgstr "Satılık Yazı Tipi Boyutu"
+
+#: customizer.php:2254
+msgid "Go Pro"
+msgstr "Profesyonel Olun"

@@ -1,0 +1,64 @@
+.logistic-transport-banner-section h1,.logistic-transport-banner-section .wp-block-button__link,.logistic-transport-learn-more-section h3,.logistic-transport-learn-more-section .wp-block-button__link,.logistic-transport-about-section h2,.logistic-transport-about-section h3{
+    font-family: 'Montserrat', sans-serif;
+}
+
+/*digital-agency-banner-section*/
+.logistic-transport-banner-section .wp-block-button__link {
+    border-top-right-radius: 6px !important;
+    border-bottom-left-radius: 6px !important;
+    font-weight: 700;
+    font-size: 16px;
+    color: #000;
+}
+.logistic-transport-banner-section .wp-block-button__link:after {
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+    content: "\f105";
+    margin-left: 12px;
+}
+.logistic-transport-banner-section .wp-block-button__link:hover {
+    background: #000 !important;
+    color: #fff !important;
+}
+.logistic-transport-learn-more-section .wp-block-button__link {
+    border: none;
+}
+.logistic-transport-learn-more-section .wp-block-button__link{
+    font-weight: 600;
+}
+.logistic-transport-banner-section .wp-block-button__link:hover {
+    color: #000 !important;
+    background: #00cdfc !important;
+    box-shadow: none;
+}
+.logistic-transport-learn-more-section .wp-block-button__link:after{
+    content: '';
+    padding: 1px;
+    background: #000;
+    opacity: 1;
+    display: block;
+}
+.logistic-transport-shipping-section .wp-block-image {
+    margin-top: 0px;
+}
+.logistic-transport-banner-section {
+    position: relative;
+}
+.logistic-transport-learn-more-section1 {
+    margin-top: -16% !important;
+    position: relative !important;
+    z-index: 9;
+}
+/*digital-agency-aboutus-section*/
+.logistic-transport-about-section h2{
+   font-weight: bold;
+}
+.logistic-transport-about-section h2:after {
+    content: '' !important;
+    padding: 1px;
+    background: #00cdfc;
+    opacity: 1;
+    display: block;
+    width: 25%;
+    top: auto !important;
+}

@@ -1,0 +1,97 @@
+.logistic-transport-banner-section h1,.logistic-transport-banner-section a,.logistic-transport-banner-section .wp-block-button__link,.logistic-transport-learn-more-section h3,.logistic-transport-learn-more-section .wp-block-button__link{
+    font-family: 'Montserrat', sans-serif;
+  }
+.logistic-transport-banner-section{
+    width: auto;
+    height: auto;
+  }
+/*logistic-transport-banner-section*/
+.logistic-transport-banner-section a.wp-block-button__link {
+    border-top-right-radius: 6px !important;
+    border-bottom-left-radius: 6px !important;
+    font-weight: 700;
+    font-size: 16px;
+}
+.logistic-transport-banner-section a.wp-block-button__link:after {
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+    content: "\f105";
+    margin-left: 12px;
+}
+.logistic-transport-learn-more-section img{
+    width: auto !important;
+}
+.logistic-transport-learn-more-section a.wp-block-button__link {
+    border: none;
+    font-size: 15px !important;
+}
+.logistic-transport-learn-more-section a.wp-block-button__link:hover {
+    color: #000 !important;
+    background: #00cdfc !important;
+    box-shadow: none;
+}
+.logistic-transport-learn-more-section a.wp-block-button__link:after{
+    content: '';
+    padding: 1px;
+    background: #000;
+    opacity: 1;
+    display: block;
+}
+.logistic-transport-shipping-section .wp-block-image {
+    margin-bottom: 0px;
+}
+.wp-block-button__link{
+    font-weight: 600;
+}
+figure {
+    border: none !important;
+}
+.logistic-transport-shipping-section {
+    padding: 25px 0px 0px 0px;
+}
+.logistic-transport-banner-section {
+    position: relative;
+}
+.logistic-transport-learn-more-section1 {
+    margin-top: -8% !important;
+    position: relative;
+    z-index: 9;
+}
+/*digital-agency-aboutus-section*/
+.logistic-transport-about-section h2, .logistic-transport-learn-more-section1 h3{
+   font-weight: bold;
+   position: relative;
+}
+.logistic-transport-about-section h3{
+   font-weight: 500;
+}
+.logistic-transport-about-section h2:after, .logistic-transport-learn-more-section1 h3:after {
+    content: '';
+    padding: 1px;
+    background: #000;
+    opacity: 1;
+    display: block;
+    width: 20%;
+    position: absolute;
+    bottom: 0;
+}
+.logistic-transport-learn-more-section1 h3:after {
+    left: 50%;
+    transform: translateX(-50%);
+}
+@media screen and (min-width: 320px) and (max-width:720px) {
+    .logistic-transport-banner-section h1{
+       font-size: 30px;
+    }
+    .logistic-transport-learn-more-section1 {
+       margin-top: 10% !important;    
+    }
+}
+@media screen and (min-width: 721px) and (max-width:991px) {
+   .logistic-transport-learn-more-section {
+      flex-wrap: nowrap !important;
+    }
+    .logistic-transport-about-section .wp-block-columns {
+      flex-wrap: nowrap !important;
+    }
+}

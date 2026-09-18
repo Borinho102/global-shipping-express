@@ -1,0 +1,380 @@
+# Copyright (c) 2023 CodeYatri. All Rights Reserved.
+msgid ""
+msgstr ""
+"Project-Id-Version: Gutenify Logistics 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/gutenify-logistics\n"
+"Last-Translator: inf@codeyatri.com\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-06-12T16:39:08+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: gutenify-logistics\n"
+
+#. Theme Name of the theme
+msgid "Gutenify Logistics"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://gutenify.com/themes/gutenify-logistics"
+msgstr ""
+
+#. Description of the theme
+msgid "Gutenify Logistics is modern block-based theme where you can build your own unique looking website by using WordPress Blocks Editor. Gutenify Logistics is a multipurpose block based free theme, the theme is built in accordance of Full Site Editing features introduced in WordPress 5.9, which means that all the aspects including colors, typography, and the layout of every single page on your site can be customized to suit your need.The true efficiency of Gutenify Logistics Theme lies in its customizability with combination of Gutenify Plugin. With Gutenify Plugin you can create different customized template, you can also use its in-built template kits and then further customize them according to your needs. Furthermore, using different blocks in combination of Gutenify Plugin’s solid additional blocks, each website will garner an exhibit look. With strong typography, and simple design, we want to achieve unique look for every website. Gutenify Plugin offers a wide variety of flexible and easy to use blocks which will make your website in combination with truly unique spectacle. You can create. A single-page website, a blog, a Logistics website, a portfolio, a construction site, or an education site, Gutenify Corporate with Gutenify Plugin will help you create something unique which you can truly call yours.Official Support Forum: https://gutenify.com/contact/"
+msgstr ""
+
+#. Author of the theme
+msgid "Codeyatri"
+msgstr ""
+
+#. Author URI of the theme
+#: patterns/footer-default.php:139
+msgid "https://gutenify.com"
+msgstr ""
+
+#: patterns/client-logo.php
+msgctxt "Pattern title"
+msgid "Client Logo"
+msgstr ""
+
+#: patterns/feature-banner-main.php
+msgctxt "Pattern title"
+msgid "Feature Banner Main"
+msgstr ""
+
+#: patterns/feature-banner-main.php:15
+msgid "Welcome to our logistics Services"
+msgstr ""
+
+#: patterns/feature-banner-main.php:19
+msgid "Logistics Solution Provider"
+msgstr ""
+
+#: patterns/feature-banner-main.php:23
+msgid "By air, sea or via large and modern cargo trucks."
+msgstr ""
+
+#: patterns/feature-banner-main.php:30
+msgid "Who We Are"
+msgstr ""
+
+#: patterns/feature-video.php
+msgctxt "Pattern title"
+msgid "Feature Video"
+msgstr ""
+
+#: patterns/feature-video.php:13
+msgid "Build Amazing WordPress website"
+msgstr ""
+
+#: patterns/feature-video.php:17
+msgid "We Carry Your Trust"
+msgstr ""
+
+#: patterns/feature-video.php:22
+msgid "With a global network and advanced logistics solutions, our air freight services provide."
+msgstr ""
+
+#: patterns/footer-default.php
+msgctxt "Pattern title"
+msgid "Footer Default"
+msgstr ""
+
+#: patterns/footer-default.php:11
+msgid "Do you have any projects? Call us"
+msgstr ""
+
+#: patterns/footer-default.php:11
+msgid "+ 123 - 456 -7891"
+msgstr ""
+
+#: patterns/footer-default.php:29
+msgid "About Us"
+msgstr ""
+
+#: patterns/footer-default.php:34
+msgid "Nsectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+msgstr ""
+
+#: patterns/footer-default.php:39
+#: patterns/service.php:43
+#: patterns/service.php:67
+#: patterns/service.php:91
+#: patterns/service.php:117
+#: patterns/service.php:141
+#: patterns/service.php:165
+msgid "Know More"
+msgstr ""
+
+#: patterns/footer-default.php:47
+msgid "Quick links"
+msgstr ""
+
+#: patterns/footer-default.php:53
+msgid "Our Services"
+msgstr ""
+
+#: patterns/footer-default.php:57
+msgid "Meet our Team"
+msgstr ""
+
+#: patterns/footer-default.php:61
+msgid "Our Portfolio"
+msgstr ""
+
+#: patterns/footer-default.php:65
+msgid "Contact"
+msgstr ""
+
+#: patterns/footer-default.php:69
+#: patterns/latest-news.php:15
+msgid "News"
+msgstr ""
+
+#: patterns/footer-default.php:77
+msgid "Recent News"
+msgstr ""
+
+#: patterns/footer-default.php:87
+msgid "Quick Contact"
+msgstr ""
+
+#: patterns/footer-default.php:98
+msgid "New South Wales, Australia"
+msgstr ""
+
+#: patterns/footer-default.php:108
+msgid "support@gutenify.com"
+msgstr ""
+
+#: patterns/footer-default.php:118
+msgid "123 3456679"
+msgstr ""
+
+#: patterns/footer-default.php:128
+#: patterns/header-default.php:21
+msgid "10 AM - 5 PM"
+msgstr ""
+
+#: patterns/footer-default.php:139
+msgid "Proudly powered by "
+msgstr ""
+
+#: patterns/footer-default.php:139
+msgid "Gutenify"
+msgstr ""
+
+#: patterns/footer-default.php:139
+msgid "and"
+msgstr ""
+
+#: patterns/footer-default.php:139
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer-default.php:139
+msgid "WordPress."
+msgstr ""
+
+#: patterns/header-default.php
+msgctxt "Pattern title"
+msgid "Header Default"
+msgstr ""
+
+#: patterns/header-default.php:12
+msgid "Opening Hours : Monday to Saturday"
+msgstr ""
+
+#: patterns/header-default.php:56
+msgid "Email Us"
+msgstr ""
+
+#: patterns/header-default.php:60
+msgid "info@example.com"
+msgstr ""
+
+#: patterns/header-default.php:72
+msgid "Contact Us"
+msgstr ""
+
+#: patterns/header-default.php:76
+msgid "+123 456 789"
+msgstr ""
+
+#: patterns/header-default.php:88
+msgid "Find Us"
+msgstr ""
+
+#: patterns/header-default.php:92
+msgid "New South, Australia"
+msgstr ""
+
+#: patterns/header-default.php:106
+msgid "Book Now"
+msgstr ""
+
+#: patterns/hero-section.php
+msgctxt "Pattern title"
+msgid "Hero Section"
+msgstr ""
+
+#: patterns/hero-section.php:16
+msgid "25 +"
+msgstr ""
+
+#: patterns/hero-section.php:20
+msgid "Years"
+msgstr ""
+
+#: patterns/hero-section.php:25
+msgid "Experience"
+msgstr ""
+
+#: patterns/hero-section.php:36
+msgid "Why Choose Us"
+msgstr ""
+
+#: patterns/hero-section.php:41
+msgid "Safe, Reliable And Express Logistics Transport Solutions That Saves Your Time!"
+msgstr ""
+
+#: patterns/hero-section.php:45
+msgid "We pride ourselves on providing the best transport and shipping services available allover the world. Our skilled personnel, utilising the latest communications, tracking and processing , combined with decades of experience!"
+msgstr ""
+
+#: patterns/hero-section.php:51
+msgid "Explore Services"
+msgstr ""
+
+#: patterns/hero-section.php:65
+#: patterns/hero-section.php:101
+msgid "458"
+msgstr ""
+
+#: patterns/hero-section.php:69
+msgid "Happy Customers"
+msgstr ""
+
+#: patterns/hero-section.php:77
+msgid "145"
+msgstr ""
+
+#: patterns/hero-section.php:81
+msgid "Complete Work"
+msgstr ""
+
+#: patterns/hero-section.php:89
+msgid "586"
+msgstr ""
+
+#: patterns/hero-section.php:93
+msgid "Our Award"
+msgstr ""
+
+#: patterns/hero-section.php:105
+msgid "Company Members"
+msgstr ""
+
+#: patterns/home.php
+msgctxt "Pattern title"
+msgid "Home"
+msgstr ""
+
+#: patterns/latest-news.php
+msgctxt "Pattern title"
+msgid "Latest News"
+msgstr ""
+
+#: patterns/latest-news.php:20
+msgid "From Our Blog Posts"
+msgstr ""
+
+#: patterns/latest-news.php:26
+msgid "View More"
+msgstr ""
+
+#: patterns/primary-sidebar.php
+msgctxt "Pattern title"
+msgid "Primary Sidebar"
+msgstr ""
+
+#: patterns/primary-sidebar.php:16
+msgid "Archive"
+msgstr ""
+
+#: patterns/primary-sidebar.php:34
+msgid "Categorise"
+msgstr ""
+
+#: patterns/primary-sidebar.php:52
+msgid "Recent Posts"
+msgstr ""
+
+#: patterns/primary-sidebar.php:70
+msgid "Tags"
+msgstr ""
+
+#: patterns/primary-sidebar.php:88
+msgid "Social Links"
+msgstr ""
+
+#: patterns/project.php
+msgctxt "Pattern title"
+msgid "Project"
+msgstr ""
+
+#: patterns/project.php:13
+msgid "How Can I Help You"
+msgstr ""
+
+#: patterns/project.php:19
+msgid "Recent Gallery"
+msgstr ""
+
+#: patterns/service.php
+msgctxt "Pattern title"
+msgid "Service"
+msgstr ""
+
+#: patterns/service.php:14
+msgid "Services list"
+msgstr ""
+
+#: patterns/service.php:20
+msgid "What We’re Offering"
+msgstr ""
+
+#: patterns/service.php:34
+msgid "Trucking Service"
+msgstr ""
+
+#: patterns/service.php:38
+#: patterns/service.php:62
+#: patterns/service.php:86
+#: patterns/service.php:112
+#: patterns/service.php:136
+#: patterns/service.php:160
+msgid "Lorem ipsum dolor sit amet, consectetur notted adipisicing elit sed do."
+msgstr ""
+
+#: patterns/service.php:58
+msgid "Warehousing"
+msgstr ""
+
+#: patterns/service.php:82
+msgid "Logistic Services"
+msgstr ""
+
+#: patterns/service.php:108
+msgid "Ground Shipping"
+msgstr ""
+
+#: patterns/service.php:132
+msgid "Internationl Air Freight"
+msgstr ""
+
+#: patterns/service.php:156
+msgid "Fast &amp; Safe Delivery"
+msgstr ""

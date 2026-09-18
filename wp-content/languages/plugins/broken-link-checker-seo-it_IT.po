@@ -1,0 +1,1051 @@
+# Translation of Plugins - Broken Link Checker by AIOSEO – Easily Fix/Monitor Internal and External links - Stable (latest release) in Italian
+# This file is distributed under the same license as the Plugins - Broken Link Checker by AIOSEO – Easily Fix/Monitor Internal and External links - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-11-25 13:33:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: it\n"
+"Project-Id-Version: Plugins - Broken Link Checker by AIOSEO – Easily Fix/Monitor Internal and External links - Stable (latest release)\n"
+
+#. Translators: 1 - The plugin name ("Broken Link Checker").
+#: app/Admin/Admin.php:461
+msgid "Rate %1$s"
+msgstr "Vota %1$s"
+
+#. Plugin Name of the plugin
+#: aioseo-broken-link-checker.php
+msgid "Broken Link Checker by AIOSEO"
+msgstr "Broken Link Checker di AIOSEO"
+
+#: app/Admin/Admin.php:581
+msgid "Give us a 5-star rating!"
+msgstr "Lasciaci una valutazione 5 stelle!"
+
+#. Translators: 1 - The plugin name ("Broken Link Checker"), - 2 - This
+#. placeholder will be replaced with star icons, - 3 - "WordPress.org" - 4 -
+#. The plugin name ("Broken Link Checker").
+#: app/Admin/Admin.php:598
+msgid "Please rate %1$s %2$s on %3$s to help us spread the word. Thank you!"
+msgstr "Dai %2$s a %1$s su %3$s per aiutarci a farlo conoscere. Grazie!"
+
+#. Translators: 1 - WP Core version number, 2 - BLC version number.
+#: app/Admin/Admin.php:610
+msgid "WordPress %1$s | BLC %2$s"
+msgstr "WordPress %1$s | BLC %2$s"
+
+#. Translators: 1 - The plugin name ("Broken Link Checker").
+#: app/Admin/Notices/NotConnected.php:66
+msgid "Your site is not connected with %1$s. %2$sConnect now%3$s to start scanning for broken links and fix them to improve your SEO."
+msgstr "Il tuo sito non è collegato a %1$s. %2$sConnettiti ora%3$s per iniziare la scansione dei link non funzionanti e correggerli per migliorare la tua SEO."
+
+#: app/Admin/Notices/Review.php:88
+msgid "I already did"
+msgstr "L'ho già fatto"
+
+#: languages/broken-link-checker-seo.php:12
+msgid "(re)check"
+msgstr "(ri)seleziona"
+
+#: languages/broken-link-checker-seo.php:15
+msgid "(Re)check"
+msgstr "(Ri)seleziona"
+
+#: languages/broken-link-checker-seo.php:54
+msgid "404 Monitoring"
+msgstr "Monitoraggio errori 404"
+
+#: languages/broken-link-checker-seo.php:81
+msgid "Add Redirect"
+msgstr "Aggiungi reindirizzamento"
+
+#: languages/broken-link-checker-seo.php:131
+msgid "Automatic Redirects"
+msgstr "Reindirizzamenti automatici"
+
+#. Translators: 1 - Opening HTML span tag, 2 - Closing HTML span tag.
+#: languages/broken-link-checker-seo.php:170
+msgid "Choose whether broken links should be marked on the frontend when you are logged in. Broken links will be underlined in red like %1$sthis%2$s."
+msgstr "Scegli se i link interrotti devono essere segnalati sul frontend quando sei connesso. I link interrotti saranno sottolineati in rosso come %1$squesto%2$s."
+
+#: languages/broken-link-checker-seo.php:276
+msgid "Fast Server Redirects"
+msgstr "Reindirizzamenti veloci del server"
+
+#: languages/broken-link-checker-seo.php:300
+msgid "Full Site Redirects"
+msgstr "Reindirizzamenti completi del sito"
+
+#: languages/broken-link-checker-seo.php:340
+msgid "Highlight Broken Links"
+msgstr "Evidenzia i link interrotti"
+
+#: languages/broken-link-checker-seo.php:497
+msgid "Redirect Monitoring"
+msgstr "Monitoraggio del reindirizzamento"
+
+#: languages/broken-link-checker-seo.php:503
+msgid "Redirection Manager by AIOSEO is a premium addon that lets you easily create redirects for broken links to avoid confusing search engines & users and prevent losing backlinks."
+msgstr "Redirection Manager di AIOSEO è un add-on premium che ti permette di creare facilmente reindirizzamenti per i link non funzionanti per evitare di confondere i motori di ricerca e gli utenti e di perdere backlink."
+
+#: languages/broken-link-checker-seo.php:558
+msgid "Site Aliases"
+msgstr "Alias del sito"
+
+#. Translators: 1 - Opening HTML link tag, 2 - Closing HTML link tag.
+#: languages/broken-link-checker-seo.php:620
+msgid "The link could not be removed successfully. Please try again or remove the link by %1$sediting the post%2$s manually."
+msgstr "Non è stato possibile rimuovere il link. Prova di nuovo o rimuovi il link %1$smodificando l'articolo%2$s manualmente."
+
+#. Translators: 1 - Opening HTML link tag, 2 - Closing HTML link tag.
+#: languages/broken-link-checker-seo.php:625
+msgid "The link could not be updated successfully. Please try again or update the link by %1$sediting the post%2$s manually."
+msgstr "Non è stato possibile aggiornare il link. Prova di nuovo o aggiorna il link %1$smodificando l'articolo%2$s manualmente."
+
+#: languages/broken-link-checker-seo.php:628
+msgid "The links could not be removed successfully. Please try again or remove the links by editing the posts manually."
+msgstr "Non è stato possibile rimuovere i link. Prova di nuovo o rimuovi i link modificando manualmente gli articoli."
+
+#. Translators: 1 - An amount of time (e.g. "2 days" or "1 hour, 2 minutes and
+#. 3 seconds"), 2 - An amount of days (e.g. "2 days").
+#: languages/broken-link-checker-seo.php:671
+msgid "This link has been broken for %1$s. It will be checked again in %2$s."
+msgstr "Questo link è stato interrotto per %1$s. Verrà nuovamente selezionato in %2$s."
+
+#. Translators: 1 - An amount of time (e.g. "2 days" or "1 hour, 2 minutes and
+#. 3 seconds").
+#: languages/broken-link-checker-seo.php:675
+msgid "This link has been broken for %1$s. It will be checked again today."
+msgstr "Questo link è stato interrotto da %1$s. Verrà nuovamente selezionato oggi."
+
+#. Translators: 1 - An amount of days.
+#: languages/broken-link-checker-seo.php:679
+msgid "This link will be checked again in %1$s."
+msgstr "Questo link sarà selezionato nuovamente in %1$s."
+
+#: languages/broken-link-checker-seo.php:682
+msgid "This link will be checked again today."
+msgstr "Questo link verrà selezionato nuovamente oggi."
+
+#: languages/broken-link-checker-seo.php:748
+msgid "Unlock AIOSEO Redirects on Your Site"
+msgstr "Sblocca i reindirizzamenti di AIOSEO Redirects sul tuo sito"
+
+#: languages/broken-link-checker-seo.php:751
+msgid "Unlock Redirects"
+msgstr "Sblocca Reindirizzamenti"
+
+#. Translators: 1 - The singular label for a post type (e.g 'Post', 'Page',
+#. 'Product', etc.).
+#: languages/broken-link-checker-seo.php:249
+msgid "Edit %1$s"
+msgstr "Modifica %1$s"
+
+#. Translators: 1 - The singular label for a post type (e.g 'Post', 'Page',
+#. 'Product', etc.).
+#: languages/broken-link-checker-seo.php:782
+msgid "View %1$s"
+msgstr "Visualizza %1$s"
+
+#: languages/broken-link-checker-seo.php:75
+msgid "Add any domains you want to exclude from being checked, one per line. Do not include the scheme or \"www\" part of the domain (e.g. enter \"aioseo.com\" instead of \"https://aioseo.com\" or \"www.aioseo.com\")."
+msgstr "Aggiungi i domini che vuoi escludere dalle verifiche, uno per riga. Non includere lo schema o la parte \"www\" del dominio (per esempio inserisci \"aioseo.com\" invece di \"https://aioseo.com\" o \"www.aioseo.com\")."
+
+#: languages/broken-link-checker-seo.php:270
+msgid "Exclude Domains"
+msgstr "Escludi domini"
+
+#: languages/broken-link-checker-seo.php:352
+msgid "Improve your WordPress email deliverability and make sure that your website emails reach user’s inbox with the #1 SMTP plugin for WordPress. Over 3 million websites use it to fix WordPress email issues."
+msgstr "Migliora la deliverability delle tue email su WordPress e assicurati che le email del tuo sito web raggiungano la casella di posta degli utenti con il plugin SMTP numero uno per WordPress. Oltre 3 milioni di siti web lo usano per correggere i problemi delle email di WordPress."
+
+#: languages/broken-link-checker-seo.php:364
+msgid "Install Free Plugin"
+msgstr "Installa il plugin gratuito"
+
+#: languages/broken-link-checker-seo.php:367
+msgid "Instantly get more subscribers, leads, and sales with the #1 conversion optimization toolkit. Create high converting popups, announcement bars, spin a wheel, and more with smart targeting and personalization."
+msgstr "Ottieni subito più abbonati, contatti e vendite con il toolkit n. 1 per l'ottimizzazione delle conversioni. Crea pop-up ad alta conversione, banner di annunci e molto altro con la personalizzazione e l'ottimizzazione intelligenti."
+
+#: languages/broken-link-checker-seo.php:386
+msgid "Leading WordPress backup & site migration plugin. Over 1,500,000+ smart website owners use Duplicator to make reliable and secure WordPress backups to protect their websites. It also makes website migration really easy."
+msgstr "Plugin di WordPress leader per il backup e la migrazione dei siti. Più di 1.500.000 brillanti proprietari di siti web usano Duplicator per eseguire backup di WordPress affidabili e sicuri e proteggere i loro siti web. In più rende la migrazione dei siti web davvero facile."
+
+#: languages/broken-link-checker-seo.php:404
+msgid "Link Status Detail"
+msgstr "Dettaglio stato del link"
+
+#: languages/broken-link-checker-seo.php:413
+msgid "Links are being checked for the first time"
+msgstr "I link vengono selezionati per la prima volta"
+
+#: languages/broken-link-checker-seo.php:416
+msgid "Loading..."
+msgstr "In caricamento ..."
+
+#: languages/broken-link-checker-seo.php:428
+msgid "No results found."
+msgstr "Nessun risultato trovato."
+
+#: languages/broken-link-checker-seo.php:485
+msgid "Posts"
+msgstr "Post"
+
+#: languages/broken-link-checker-seo.php:591
+msgid "The best drag & drop WordPress form builder. Easily create beautiful contact forms, surveys, payment forms, and more with our 1000+ form templates. Trusted by over 6 million websites as the best forms plugin."
+msgstr "Il miglior builder di moduli WordPress trascina e rilascia. Crea facilmente bellissimi moduli di contatto, sondaggi, moduli di pagamento e molto altro ancora con i nostri oltre 1000 template. Considerato da oltre 6 milioni di siti web come il miglior plugin per moduli."
+
+#: languages/broken-link-checker-seo.php:600
+msgid "The fastest drag & drop landing page builder for WordPress. Create custom landing pages without writing code, connect them with your CRM, collect subscribers, and grow your audience. Trusted by 1 million sites."
+msgstr "Il più veloce costruttore di landing page drag & drop per WordPress. Crea landing page personalizzate senza bisogno di scrivere codice, connettile al tuo CRM, raccogli gli indirizzi degli abbonati e fai crescere il tuo pubblico. 1 milione di siti gli ha dato fiducia."
+
+#: languages/broken-link-checker-seo.php:603
+msgid "The leading WordPress analytics plugin that shows you how people find and use your website, so you can make data driven decisions to grow your business. Properly set up Google Analytics without writing code."
+msgstr "Il principale plugin di analisi per WordPress che ti mostra come le persone trovano e usano il tuo sito: così potrai prendere decisioni guidate dai dati per far crescere il tuo business. Imposta correttamente Google Analytics senza bisogno di scrivere codice."
+
+#: languages/broken-link-checker-seo.php:706
+msgid "Top-rated WordPress donation and fundraising plugin. Over 10,000+ non-profit organizations and website owners use Charitable to create fundraising campaigns and raise more money online."
+msgstr "Il più apprezzato plugin di WordPress per donazioni e raccolte fondi. Oltre 10.000 organizzazioni no-profit e proprietari di siti web usano Charitable per creare campagne di raccolta fondi e raccogliere denaro online."
+
+#. Translators: 1 - A number of posts.
+#: languages/broken-link-checker-seo.php:786
+msgid "View %d Posts"
+msgstr "Visualizza %d pubblicazioni"
+
+#. Translators: 1 - Total number of posts.
+#: languages/broken-link-checker-seo.php:790
+msgid "View All %1$s Posts"
+msgstr "Visualizza tutte le %1$s pubblicazioni"
+
+#. Translators: 1 -An action verb ("delete", "dismiss", "recheck", etc.).
+#: languages/broken-link-checker-seo.php:822
+msgid "Yes, I want to %1$s this post"
+msgstr "Sì, voglio %1$s questa pubblicazione"
+
+#. Translators: 1 -An action verb ("delete", "dismiss", "recheck", etc.).
+#: languages/broken-link-checker-seo.php:120
+msgid "Are you sure you want to %1$s this post?"
+msgstr "Sei sicuro di voler %1$s questa pubblicazione?"
+
+#: languages/broken-link-checker-seo.php:134
+msgid "Back to All Links"
+msgstr "Torna a Tutti i link"
+
+#: languages/broken-link-checker-seo.php:146
+msgid "Boost your sales and conversions by up to 15% with real-time social proof notifications. TrustPulse helps you show live user activity and purchases to help convince other users to purchase."
+msgstr "Aumenta vendite e conversioni fino al 15% con le notifiche di riprova sociale in tempo reale. TrustPulse ti permette di mostrare in diretta l'attività degli utenti e i loro acquisti per convincere altre persone ad acquistare."
+
+#: languages/broken-link-checker-seo.php:204
+msgid "delete"
+msgstr "elimina"
+
+#: languages/broken-link-checker-seo.php:210
+msgid "Depending on the number of links that need to be checked, this process can take some time. You can safely leave this page and check back later."
+msgstr "A seconda del numero di link da selezionare, questo processo può richiedere del tempo. Puoi tranquillamente lasciare questa pagina e tornare a selezionarla più tardi."
+
+#: languages/broken-link-checker-seo.php:236
+msgid "Easily display Facebook content on your WordPress site without writing any code. Comes with multiple templates, ability to embed albums, group content, reviews, live videos, comments, and reactions."
+msgstr "Visualizza con facilità i contenuti di Facebook sul tuo sito WordPress senza scrivere alcun codice. Include numerosi template, capacità di incorporare album, contenuti di gruppo, recensioni, video live, commenti e reazioni."
+
+#: languages/broken-link-checker-seo.php:239
+msgid "Easily display Instagram content on your WordPress site without writing any code. Comes with multiple templates, ability to show content from multiple accounts, hashtags, and more. Trusted by 1 million websites."
+msgstr "Visualizza con facilità i contenuti di Instagram sul tuo sito WordPress senza scrivere alcun codice. Include numerosi template, capacità di mostrare contenuti da più account, hashtag e altro ancora. 1 milione di siti web gli hanno dato fiducia."
+
+#: languages/broken-link-checker-seo.php:242
+msgid "Easily display Twitter content in WordPress without writing any code. Comes with multiple layouts, ability to combine multiple Twitter feeds, Twitter card support, tweet moderation, and more."
+msgstr "Visualizza con facilità i contenuti di Twitter in WordPress senza scrivere alcun codice. Include numerosi layout, capacità di combinare più feed di Twitter, supporto per le schede di Twitter, moderazione dei tweet e altro ancora."
+
+#: languages/broken-link-checker-seo.php:245
+msgid "Easily display YouTube videos on your WordPress site without writing any code. Comes with multiple layouts, ability to embed live streams, video filtering, ability to combine multiple channel videos, and more."
+msgstr "Visualizza con facilità i video di YouTube sul tuo sito WordPress senza scrivere alcun codice. Include numerosi layout, capacità di incorporare i live stream, filtrare i video, combinare più canali video e molto altro."
+
+#: languages/broken-link-checker-seo.php:252
+msgid "Edit Anchor"
+msgstr "Modifica l'ancora"
+
+#: languages/broken-link-checker-seo.php:303
+msgid "Future proof your WordPress customizations with the most popular code snippet management plugin for WordPress. Trusted by over 1,500,000+ websites for easily adding code to WordPress right from the admin area."
+msgstr "Proteggi le tue personalizzazioni di WordPress con il più popolare plugin di gestione degli snippet di codice per WordPress. Più di 1.500.000 siti web lo hanno già scelto per aggiungere con facilità codice a WordPress direttamente dall'area di amministrazione."
+
+#. Translators: 1 - The plugin name ("Broken Link Checker").
+#: languages/broken-link-checker-seo.php:539
+msgid "Select which Post Types you want to enable %1$s for."
+msgstr "Seleziona i tipi di post per i quali vuoi abilitare %1$s."
+
+#. Plugin URI of the plugin
+#: aioseo-broken-link-checker.php
+msgid "https://aioseo.com/broken-link-checker"
+msgstr "https://aioseo.com/broken-link-checker"
+
+#. Author of the plugin
+#: aioseo-broken-link-checker.php
+msgid "All in One SEO Team"
+msgstr "Team di All in One SEO"
+
+#. Author URI of the plugin
+#: aioseo-broken-link-checker.php
+msgid "https://aioseo.com"
+msgstr "https://aioseo.com"
+
+#: app/Admin/Admin.php:131 app/Admin/Admin.php:132
+#: languages/broken-link-checker-seo.php:152
+msgid "Broken Links"
+msgstr "Link interrotti"
+
+#: app/Admin/Admin.php:218 app/Admin/Admin.php:219
+#: languages/broken-link-checker-seo.php:545
+msgid "SEO Settings"
+msgstr "Impostazioni SEO"
+
+#: app/Admin/Admin.php:232 app/Admin/Admin.php:233
+#: languages/broken-link-checker-seo.php:60
+msgid "About Us"
+msgstr "Chi siamo"
+
+#. Translators: This is an action link users can click to open a feature
+#. request.
+#: app/Admin/Admin.php:453
+msgid "Suggest a Feature"
+msgstr "Suggerisci una funzionalità"
+
+#. Translators: This is an action link users can click to open our support.
+#: app/Admin/Admin.php:483
+msgid "Support"
+msgstr "Supporto"
+
+#. Translators: This is an action link users can click to open our
+#. documentation page.
+#: app/Admin/Admin.php:488
+msgid "Documentation"
+msgstr "Documentazione"
+
+#: app/Api/Plugins.php:27
+msgid "Installation failed. Please check permissions and try again."
+msgstr "L'installazione non è riuscita. Controlla i permessi e riprova."
+
+#: app/Api/Plugins.php:89
+msgid "Deactivation failed. Please check permissions and try again."
+msgstr "Disattivazione non riuscita. Controlla i permessi e riprova."
+
+#: app/BrokenLinkChecker.php:300
+msgid "Plugin is missing required dependencies. Please contact support for more information."
+msgstr "Il plugin non ha le dipendenze necessarie. Contatta l'assistenza per ulteriori informazioni."
+
+#. Translators: 1 - Opening HTML bold tag, 2 - Closing HTML bold tag, 3 -
+#. Opening HTML link tag, 4 - Closing HTML link tag.
+#: app/init/notices.php:23
+msgid "Your site is running an %1$sinsecure version%2$s of PHP that is no longer supported. Please contact your web hosting provider to update your PHP version or switch to a %3$srecommended WordPress hosting company%4$s."
+msgstr "Il tuo sito sta usando una %1$sversione non sicura%2$s di PHP che non è più supportata. Contatta il tuo provider di web hosting per aggiornare la versione di PHP o passa a una delle %3$ssocietà di hosting WordPress raccomandate%4$s."
+
+#. Translators: 1 - Opening HTML bold tag, 2 - Closing HTML bold tag, 3 - The
+#. short plugin name ("AIOSEO"), 4 - Opening HTML link tag, 5 - Closing HTML
+#. link tag.
+#: app/init/notices.php:44
+msgid "%1$sNote:%2$s %3$s plugin is disabled on your site until you fix the issue. %4$sRead more for additional information.%5$s"
+msgstr "%1$sNota:%2$s Il plugin %3$s rimarrà disabilitato sul tuo sito finché non risolvi il problema. %4$sLeggi di più per ulteriori informazioni.%5$s"
+
+#. Translators: 1 - Opening HTML bold tag, 2 - Closing HTML bold tag, 3 - The
+#. plugin short name ("AIOSEO"), 4 - Opening HTML link tag, 5 - Closing HTML
+#. link tag.
+#: app/init/notices.php:91
+msgid "Your site is running an %1$soutdated version%2$s of PHP that is no longer supported and may cause issues with %3$s. Please contact your web hosting provider to update your PHP version or switch to a %4$srecommended WordPress hosting company%5$s."
+msgstr "Il tuo sito sta usando una %1$sversione obsoleta%2$s di PHP che non è più supportata e può causare problemi con %3$s. Contatta il tuo provider di web hosting per aggiornare la versione di PHP o passa a una delle %4$ssocietà di hosting WordPress raccomandate%5$s."
+
+#. Translators: 1 - Opening HTML bold tag, 2 - Closing HTML bold tag, 3 - The
+#. plugin name ("All in One SEO").
+#: app/init/notices.php:159
+msgid "Your site is running an %1$sinsecure version%2$s of WordPress that is no longer supported. Please update your site to the latest version of WordPress in order to continue using %3$s."
+msgstr "Il tuo sito sta usando una %1$sversione non sicura%2$s di WordPress che non è più supportata. Ti invitiamo ad aggiornare il tuo sito alla versione più recente di WordPress per poter continuare a usare %3$s."
+
+#: app/Standalone/SetupWizard.php:64 app/Standalone/SetupWizard.php:65
+msgid "Setup Wizard"
+msgstr "Installazione guidata"
+
+#. Translators: 1 - The plugin name ("Broken Link Checker").
+#: app/Standalone/SetupWizard.php:166
+msgid "%1$s &rsaquo; Setup Wizard"
+msgstr "%1$s &rsaquo; Installazione guidata"
+
+#: app/Traits/Helpers/Vue.php:275
+msgid "All"
+msgstr "Tutto"
+
+#: app/Traits/Helpers/Vue.php:281 languages/broken-link-checker-seo.php:149
+msgid "Broken"
+msgstr "Rotto"
+
+#: app/Traits/Helpers/Vue.php:287
+msgid "Redirects"
+msgstr "Reindirizzamenti"
+
+#: app/Traits/Helpers/Vue.php:305
+msgid "Dismissed"
+msgstr "Ignorato"
+
+#: app/Traits/Helpers/Wp.php:91
+msgid "Attachments"
+msgstr "Allegati"
+
+#. Translators: 1 - An amount of days.
+#: languages/broken-link-checker-seo.php:21
+msgid "%1$d day"
+msgid_plural "%1$d days"
+msgstr[0] "%1$d giorno"
+msgstr[1] "%1$d giorni"
+
+#. Translators: 1 - An amount of hours.
+#: languages/broken-link-checker-seo.php:27
+msgid "%1$d hour"
+msgid_plural "%1$d hours"
+msgstr[0] "%1$d ora"
+msgstr[1] "%1$d ore"
+
+#. Translators: 1 - An amount of minutes.
+#: languages/broken-link-checker-seo.php:31
+msgid "%1$d minute"
+msgid_plural "%1$d minutes"
+msgstr[0] "%1$d minuto"
+msgstr[1] "%1$d minuti"
+
+#. Translators: 1 - An amount of seconds.
+#: languages/broken-link-checker-seo.php:35
+msgid "%1$d second"
+msgid_plural "%1$d seconds"
+msgstr[0] "%1$d secondo"
+msgstr[1] "%1$d secondi"
+
+#. Translators: 1 - A plugin name (e.g. "MonsterInsights", "Broken Link
+#. Checker", etc.).
+#: languages/broken-link-checker-seo.php:39
+msgid "%1$s has an intuitive setup wizard to guide you through the setup process."
+msgstr "%1$s include un'intuitiva procedura guidata che ti accompagna nel processo di configurazione."
+
+#: languages/broken-link-checker-seo.php:57
+msgid "A simple & powerful event calendar plugin for WordPress that comes with all the event management features including payments, scheduling, timezones, ticketing, recurring events, and more."
+msgstr "Un semplice e potente plugin WordPress per il calendario degli eventi: è dotato di tutte le funzionalità di gestione degli eventi, tra cui pagamenti, programmazione, fasce orarie, biglietteria, eventi ricorrenti e molto altro."
+
+#: languages/broken-link-checker-seo.php:64
+msgid "Activate"
+msgstr "Attiva"
+
+#. Translators: 1 - A plugin name (e.g. "MonsterInsights", "Broken Link
+#. Checker", etc.).
+#: languages/broken-link-checker-seo.php:69
+msgid "Activate %1$s"
+msgstr "Attiva %1$s"
+
+#: languages/broken-link-checker-seo.php:72
+msgid "Activated"
+msgstr "Attivato"
+
+#: languages/broken-link-checker-seo.php:84
+msgid "Advanced SEO Modules"
+msgstr "Moduli SEO avanzati"
+
+#: languages/broken-link-checker-seo.php:87
+msgid "Advanced Settings"
+msgstr "Impostazioni avanzate"
+
+#: languages/broken-link-checker-seo.php:96
+msgid "An unknown error occurred, please try again later."
+msgstr "Si è verificato un errore sconosciuto, riprova più tardi."
+
+#: languages/broken-link-checker-seo.php:104
+msgid "And More..."
+msgstr "E altro ancora..."
+
+#. Translators: 1 -An action verb ("delete", "dismiss", "recheck", etc.).
+#: languages/broken-link-checker-seo.php:116
+msgid "Are you sure you want to %1$s these URLs?"
+msgstr "Confermi di voler %1$s questi URL?"
+
+#. Translators: 1 -An action verb ("delete", "dismiss", "recheck", etc.).
+#: languages/broken-link-checker-seo.php:128
+msgid "Are you sure you want to %1$s this URL?"
+msgstr "Confermi di voler %1$s questo URL?"
+
+#. Translators: 1 - The plugin name ("Broken Link Checker").
+#: languages/broken-link-checker-seo.php:140
+msgid "Before you can start using %1$s, you need to connect the plugin to your account."
+msgstr "Prima di poter iniziare a usare %1$s, devi collegare il plugin al tuo account."
+
+#. Translators: 1 - "AIOSEO".
+#: languages/broken-link-checker-seo.php:156
+msgid "Built by the team behind %1$s."
+msgstr "Realizzato dal team di %1$s."
+
+#: languages/broken-link-checker-seo.php:159
+msgid "Cancel"
+msgstr "Annulla"
+
+#: languages/broken-link-checker-seo.php:162
+msgid "Check"
+msgstr "Verifica"
+
+#. Translators: 1 - The plugin name ("Broken Link Checker").
+#: languages/broken-link-checker-seo.php:166
+msgid "Check this if you would like to remove ALL %1$s data upon plugin deletion. All data will be unrecoverable."
+msgstr "Seleziona questa opzione se vuoi rimuovere TUTTI i dati di %1$s al momento dell'eliminazione del plugin. I dati non si potranno recuperare."
+
+#: languages/broken-link-checker-seo.php:176
+msgid "Connect"
+msgstr "Connetti"
+
+#: languages/broken-link-checker-seo.php:179
+msgid "Connect to an Existing Account"
+msgstr "Collegati a un account esistente"
+
+#. Translators: 1 - The plugin name ("Broken Link Checker").
+#: languages/broken-link-checker-seo.php:188
+msgid "Connect Your Site with %1$s"
+msgstr "Collega il tuo sito a %1$s"
+
+#: languages/broken-link-checker-seo.php:191
+msgid "Connect Your Site with Broken Link Checker"
+msgstr "Collega il tuo sito a Broken Link Checker"
+
+#: languages/broken-link-checker-seo.php:194
+msgid "Could not connect site to Broken Link Checker. Please try again later."
+msgstr "Impossibile collegare il sito a Broken Link Checker. Riprova più tardi."
+
+#: languages/broken-link-checker-seo.php:197
+msgid "Create a Free Account"
+msgstr "Crea un account gratuito"
+
+#: languages/broken-link-checker-seo.php:200
+msgid "Deactivated"
+msgstr "Disattivato"
+
+#: languages/broken-link-checker-seo.php:213
+msgid "Depending on the number of posts being scanned, this process can take some time. You can safely leave this page and check back later."
+msgstr "A seconda del numero di post da scansionare, questo processo può richiedere del tempo. Puoi tranquillamente lasciare questa pagina e tornare a controllarla più tardi."
+
+#: languages/broken-link-checker-seo.php:216
+msgid "Disabled"
+msgstr "Disabilitato"
+
+#: languages/broken-link-checker-seo.php:219
+msgid "Disconnect"
+msgstr "Disconnetti"
+
+#: languages/broken-link-checker-seo.php:225
+msgid "dismiss"
+msgstr "ignora"
+
+#: languages/broken-link-checker-seo.php:230
+msgid "Dismiss"
+msgstr "Ignora"
+
+#: languages/broken-link-checker-seo.php:233
+msgid "Don't update the modified date for a page/post when a link is updated."
+msgstr "Non aggiornare la data di modifica di una pagina/articolo quando si aggiorna un link."
+
+#: languages/broken-link-checker-seo.php:258
+msgid "Edit URL"
+msgstr "Modifica URL"
+
+#: languages/broken-link-checker-seo.php:261
+msgid "Enabled"
+msgstr "Abilitato"
+
+#: languages/broken-link-checker-seo.php:267
+msgid "Error"
+msgstr "Errore"
+
+#: languages/broken-link-checker-seo.php:282
+msgid "Final URL"
+msgstr "URL finale"
+
+#: languages/broken-link-checker-seo.php:285
+msgid "Follow on Twitter"
+msgstr "Seguici su Twitter"
+
+#: languages/broken-link-checker-seo.php:288
+msgid "Follow on YouTube"
+msgstr "Seguici su YouTube"
+
+#: languages/broken-link-checker-seo.php:306
+msgid "General Settings"
+msgstr "Impostazioni generali"
+
+#: languages/broken-link-checker-seo.php:312
+msgid "Go Back"
+msgstr "Torna indietro"
+
+#: languages/broken-link-checker-seo.php:316
+msgid "Go to Settings"
+msgstr "Vai alle Impostazioni"
+
+#: languages/broken-link-checker-seo.php:321
+msgid "Go to the Broken Links Report"
+msgstr "Vai al report sui link interrotti"
+
+#: languages/broken-link-checker-seo.php:330
+msgid "Here's what to do next:"
+msgstr "Ecco cosa fare dopo:"
+
+#: languages/broken-link-checker-seo.php:337
+msgid "Hide"
+msgstr "Nascondi"
+
+#: languages/broken-link-checker-seo.php:346
+msgid "HTTP Status Code"
+msgstr "Codice di stato HTTP"
+
+#: languages/broken-link-checker-seo.php:355
+msgid "Include"
+msgstr "Includi"
+
+#: languages/broken-link-checker-seo.php:358
+msgid "Include All Post Statuses"
+msgstr "Includi tutti gli stati dei post"
+
+#: languages/broken-link-checker-seo.php:370
+msgid "Internal Link Assistant"
+msgstr "Internal Link Assistant"
+
+#. Translators: 1 - "AIOSEO".
+#: languages/broken-link-checker-seo.php:374
+msgid "Join 3,000,000+ Professionals who use %1$s to Improve Their Website Search Rankings."
+msgstr "Unisciti a più di 3 milioni di professionisti che usano %1$s per migliorare il posizionamento dei loro siti sui motori di ricerca."
+
+#: languages/broken-link-checker-seo.php:377
+msgid "Join on Facebook"
+msgstr "Iscriviti su Facebook"
+
+#: languages/broken-link-checker-seo.php:380
+msgid "Join our Community"
+msgstr "Unisciti alla nostra community"
+
+#: languages/broken-link-checker-seo.php:383
+msgid "Launch Setup Wizard"
+msgstr "Avvia l'installazione guidata"
+
+#: languages/broken-link-checker-seo.php:392
+msgid "Let's Get Started"
+msgstr "Cominciamo"
+
+#: languages/broken-link-checker-seo.php:407
+msgid "Link Text"
+msgstr "Testo del link"
+
+#: languages/broken-link-checker-seo.php:419
+msgid "Manage"
+msgstr "Gestisci"
+
+#: languages/broken-link-checker-seo.php:425
+msgid "No"
+msgstr "No"
+
+#: languages/broken-link-checker-seo.php:439
+msgid "No, I changed my mind"
+msgstr "No, ho cambiato idea"
+
+#: languages/broken-link-checker-seo.php:445
+msgid "Not Installed"
+msgstr "Non installato"
+
+#: languages/broken-link-checker-seo.php:454
+msgid "Off"
+msgstr "Off"
+
+#: languages/broken-link-checker-seo.php:460
+msgid "On"
+msgstr "On"
+
+#: languages/broken-link-checker-seo.php:463
+msgid "On-Page SEO Analysis"
+msgstr "Analisi SEO On-Page"
+
+#: languages/broken-link-checker-seo.php:466
+msgid "OR"
+msgstr "O"
+
+#: languages/broken-link-checker-seo.php:469
+msgid "Our goal is to take the pain out of optimizing your website for search engines."
+msgstr "Il nostro obiettivo è eliminare la fatica di ottimizzare il tuo sito web per i motori di ricerca."
+
+#: languages/broken-link-checker-seo.php:472
+msgid "Over the years, we found that most other WordPress SEO plugins were bloated, buggy, slow, and very hard to use. So we designed our plugin as an easy and powerful tool."
+msgstr "Nel corso degli anni, abbiamo scoperto che la maggior parte degli altri plugin SEO per WordPress erano ingombranti, afflitti da bug, lenti e molto difficili da usare. Abbiamo quindi progettato il nostro plugin come uno strumento facile e potente."
+
+#: languages/broken-link-checker-seo.php:491
+msgid "Recheck"
+msgstr "Ricontrolla"
+
+#: languages/broken-link-checker-seo.php:494
+msgid "Redirect Count"
+msgstr "Conteggio dei reindirizzamenti"
+
+#: languages/broken-link-checker-seo.php:506
+msgid "Remove"
+msgstr "Rimuovi"
+
+#: languages/broken-link-checker-seo.php:512
+msgid "Response Time"
+msgstr "Tempo di risposta"
+
+#: languages/broken-link-checker-seo.php:515
+msgid "Rich Snippets Schema"
+msgstr "Schema Rich Snippet"
+
+#: languages/broken-link-checker-seo.php:518
+msgid "Save and Continue"
+msgstr "Salva e continua"
+
+#: languages/broken-link-checker-seo.php:522
+msgid "Save Changes"
+msgstr "Salva le modifiche"
+
+#: languages/broken-link-checker-seo.php:525
+msgid "Scanning for links..."
+msgstr "Scansione link..."
+
+#: languages/broken-link-checker-seo.php:531
+msgid "seconds"
+msgstr "secondi"
+
+#: languages/broken-link-checker-seo.php:542
+msgid "SEO Optimizer"
+msgstr "SEO Optimizer"
+
+#: languages/broken-link-checker-seo.php:548
+msgid "Settings"
+msgstr "Impostazioni"
+
+#. Translators: 1 - A plugin name (e.g. "MonsterInsights", "Broken Link
+#. Checker", etc.).
+#: languages/broken-link-checker-seo.php:552
+msgid "Setup %1$s"
+msgstr "Configura %1$s"
+
+#: languages/broken-link-checker-seo.php:555
+msgid "Show"
+msgstr "Mostra"
+
+#: languages/broken-link-checker-seo.php:561
+msgid "Skip this Step"
+msgstr "Salta questo passaggio"
+
+#: languages/broken-link-checker-seo.php:567
+msgid "Status"
+msgstr "Stato"
+
+#: languages/broken-link-checker-seo.php:570
+msgid "Status Details"
+msgstr "Dettagli sullo stato"
+
+#: languages/broken-link-checker-seo.php:573
+msgid "Status:"
+msgstr "Stato:"
+
+#: languages/broken-link-checker-seo.php:579
+msgid "Success"
+msgstr "Successo"
+
+#: languages/broken-link-checker-seo.php:585
+msgid "The #1 affiliate management plugin for WordPress. Easily create an affiliate program for your eCommerce store or membership site within minutes and start growing your sales with the power of referral marketing."
+msgstr "Il plugin WordPress numero 1 per la gestione delle affiliazioni. Crea in pochi minuti un programma di affiliazione per il tuo negozio eCommerce o sito di membership e fai crescere le tue vendite con la potenza del referral marketing."
+
+#: languages/broken-link-checker-seo.php:594
+msgid "The best WordPress eCommerce plugin for selling digital downloads. Start selling eBooks, software, music, digital art, and more within minutes. Accept payments, manage subscriptions, advanced access control, and more."
+msgstr "Il miglior plugin WordPress di eCommerce per la vendita di prodotti digitali. Vendi eBook, software, musica, arte digitale e molto altro in pochi minuti. Accetta i pagamenti, gestisci le iscrizioni, controlla in modo avanzato gli accessi e molto altro."
+
+#: languages/broken-link-checker-seo.php:597
+msgid "The ExactMetrics Google Analytics for WordPress plugin helps you properly setup all the powerful Google Analytics tracking features without writing any code or hiring a developer."
+msgstr "Il plugin ExactMetrics Google Analytics for WordPress ti aiuta a configurare correttamente tutte le potenti funzioni di monitoraggio di Google Analytics senza dover mai scrivere codice o assumere qualcuno che lo sappia fare."
+
+#: languages/broken-link-checker-seo.php:606
+msgid "The license key provided is disabled. Please use a different key."
+msgstr "La chiave di licenza che hai fornito non è abilitata. Usa una chiave diversa."
+
+#: languages/broken-link-checker-seo.php:609
+msgid "The license key provided is expired. Please renew your license or use a different key."
+msgstr "La chiave di licenza che hai fornito è scaduta. Rinnova la licenza o usa una chiave diversa."
+
+#: languages/broken-link-checker-seo.php:612
+msgid "The license key provided is invalid. Please use a different key."
+msgstr "La chiave di licenza che hai fornito non è valida. Usa una chiave diversa."
+
+#: languages/broken-link-checker-seo.php:631
+msgid "The most advanced WordPress search plugin. Customize your WordPress search algorithm, reorder search results, track search metrics, and everything you need to leverage search to grow your business."
+msgstr "Il più avanzato plugin di ricerca per WordPress. Personalizza l'algoritmo di ricerca di WordPress, riordina i risultati di ricerca, traccia le metriche e tutto ciò che serve per sfruttare la ricerca e far crescere il tuo business."
+
+#: languages/broken-link-checker-seo.php:634
+msgid "The original WordPress SEO plugin. Improve your WordPress SEO rankings and traffic with our comprehensive SEO tools and smart SEO optimizations!"
+msgstr "Il primo plugin WordPress per la SEO. Migliora il posizionamento SEO e il traffico verso il tuo sito WordPress con i nostri strumenti di ottimizzazione SEO!"
+
+#: languages/broken-link-checker-seo.php:657
+msgid "This action cannot be undone."
+msgstr "Questa azione non può essere annullata."
+
+#: languages/broken-link-checker-seo.php:663
+msgid "This license has reached the maximum number of activations. Please deactivate it from another site or purchase a new license."
+msgstr "Questa licenza ha raggiunto il numero massimo di attivazioni. Disattivala in un altro sito o acquista una nuova licenza."
+
+#: languages/broken-link-checker-seo.php:695
+msgid "Title"
+msgstr "Titolo"
+
+#: languages/broken-link-checker-seo.php:698
+msgid "To unlock a higher quota, consider"
+msgstr "Per sbloccare una quota più alta, puoi"
+
+#. Translators: 1 - "upgrading to Pro".
+#: languages/broken-link-checker-seo.php:703
+msgid "To unlock a higher quota, consider %1$s."
+msgstr "Per sbloccare una quota più alta, puoi %1$s."
+
+#: languages/broken-link-checker-seo.php:712
+msgid "Turn your website visitors into brand ambassadors! Easily grow your email list, website traffic, and social media followers with the most powerful giveaways & contests plugin for WordPress."
+msgstr "Trasforma le persone che visitano il tuo sito in brand ambassador! Fai crescere in fretta la tua lista di email, il traffico del sito web e i follower dei social media grazie al più potente plugin WordPress per giveaway e concorsi."
+
+#. Translators: 1 - The plugin name ("Broken Link Checker").
+#: languages/broken-link-checker-seo.php:729
+msgid "Uninstall %1$s"
+msgstr "Disinstalla %1$s"
+
+#: languages/broken-link-checker-seo.php:739
+msgid "unlink"
+msgstr "rimuovi il link"
+
+#: languages/broken-link-checker-seo.php:745
+msgid "Unlink"
+msgstr "Rimuovi il link"
+
+#: languages/broken-link-checker-seo.php:754
+msgid "Update"
+msgstr "Aggiorna"
+
+#: app/Admin/Admin.php:291
+msgid "Upgrade to Pro"
+msgstr "Passa a Pro"
+
+#: languages/broken-link-checker-seo.php:764
+msgid "Upgrade Your Broken Link Checker License"
+msgstr "Aggiorna la licenza di Broken Link Checker"
+
+#: languages/broken-link-checker-seo.php:767
+msgid "upgrading to a higher plan"
+msgstr "passare a un piano superiore"
+
+#: languages/broken-link-checker-seo.php:770
+msgid "upgrading to Pro"
+msgstr "passare a Pro"
+
+#: languages/broken-link-checker-seo.php:775
+msgid "URL"
+msgstr "URL"
+
+#: languages/broken-link-checker-seo.php:793
+msgid "View Post"
+msgstr "Visualizza il post"
+
+#: languages/broken-link-checker-seo.php:796
+msgid "Welcome"
+msgstr "Ti diamo il benvenuto"
+
+#. Translators: 1 - The plugin name ("All in One SEO"), 2 - The plugin name
+#. ("All in One SEO").
+#: languages/broken-link-checker-seo.php:800
+msgid "Welcome to %1$s"
+msgstr "Ti diamo il benvenuto su %1$s"
+
+#. Translators: 1 - The plugin name ("Broken Link Checker").
+#: languages/broken-link-checker-seo.php:804
+msgid "Welcome to the %1$s Setup Wizard!"
+msgstr "Iniziamo la procedura guidata di %1$s!"
+
+#: languages/broken-link-checker-seo.php:807
+msgid "Yes"
+msgstr "Sì"
+
+#. Translators: 1 -An action verb ("delete", "dismiss", "recheck", etc.).
+#: languages/broken-link-checker-seo.php:818
+msgid "Yes, I want to %1$s these URLs"
+msgstr "Sì, voglio %1$s questi URL"
+
+#. Translators: 1 -An action verb ("delete", "dismiss", "recheck", etc.).
+#: languages/broken-link-checker-seo.php:830
+msgid "Yes, I want to %1$s this URL"
+msgstr "Sì, voglio %1$s questo URL"
+
+#: languages/broken-link-checker-seo.php:869
+msgid "Your account is connected!"
+msgstr "Il tuo account è connesso!"
+
+#: languages/broken-link-checker-seo.php:884
+msgid "Yup, we know a thing or two about building awesome products that customers love."
+msgstr "Sì, in effetti sappiamo una cosa o due su come costruire prodotti eccezionali che i clienti adorano."
+
+#. Description of the plugin
+#: aioseo-broken-link-checker.php
+msgid "Monitor and test all internal and external links on your site for broken links. By AIOSEO, the original SEO plugin for WordPress."
+msgstr "Monitora e verifica che tutti i link interni ed esterni del tuo sito non siano interrotti. Con AIOSEO, il primo plugin SEO per WordPress."
+
+#: languages/broken-link-checker-seo.php:422
+msgid "N/A"
+msgstr "N/D"
+
+#: languages/broken-link-checker-seo.php:576
+msgid "Stop search engines from following broken links"
+msgstr "Impedisci ai motori di ricerca di seguire i link interrotti"
+
+#: languages/broken-link-checker-seo.php:389
+msgid "Learn More"
+msgstr "Approfondisci"
+
+#: languages/broken-link-checker-seo.php:401
+msgid "Link Last Checked"
+msgstr "Ultimo link controllato"
+
+#: languages/broken-link-checker-seo.php:410
+msgid "Link Tweaks"
+msgstr "Link tweaks"
+
+#: languages/broken-link-checker-seo.php:637
+msgid "There was an error connecting to the licensing API. Please try again later."
+msgstr "Si è verificato un errore di connessione all'API delle licenze. Riprova più tardi."
+
+#: languages/broken-link-checker-seo.php:101
+msgid "Anchor"
+msgstr "Ancora"
+
+#: languages/broken-link-checker-seo.php:173
+msgid "Congratulations, your site is now connected!"
+msgstr "Congratulazioni, ora il tuo sito è connesso!"
+
+#. Translators: 1 - The plugin name ("All in One SEO"), 2 - Company name
+#. ("Awesome Motive").
+#: languages/broken-link-checker-seo.php:47
+msgid "%1$s is brought to you by %2$s, the same team that’s behind the largest WordPress resource site, WPBeginner, the most popular lead-generation software, OptinMonster, the best WordPress analytics plugin, MonsterInsights and many more."
+msgstr "%1$s è un prodotto di %2$s, lo stesso team dietro al più grande sito di risorse per WordPress, WPBeginner, il più famoso software di lead-generation, OptinMonster, il miglior plugin di analisi per WordPress, MonsterInsights e a molti altri."
+
+#: languages/broken-link-checker-seo.php:588
+msgid "The #1 Stripe payments plugin for WordPress. Start accepting one-time and recurring payments on your WordPress site without setting up a shopping cart. No code required."
+msgstr "Il plugin WordPress numero 1 per i pagamenti con Stripe. Accetta pagamenti sia una tantum che ricorrenti sul tuo sito WordPress senza dover configurare un carrello della spesa. E tutto senza mai toccare il codice."
+
+#: languages/broken-link-checker-seo.php:395
+msgid "Limit Modified Date"
+msgstr "Limita la data di modifica"
+
+#: languages/broken-link-checker-seo.php:721
+msgid "undismiss"
+msgstr "riconsidera"
+
+#: languages/broken-link-checker-seo.php:725
+msgid "Undismiss"
+msgstr "Riconsidera"
+
+#: languages/broken-link-checker-seo.php:509
+msgid "Response Headers"
+msgstr "Header della risposta"
+
+#: languages/broken-link-checker-seo.php:255
+msgid "Edit Post"
+msgstr "Modifica il post"
+
+#. Translators: 1 - The plugin name ("Broken Link Checker").
+#: languages/broken-link-checker-seo.php:535
+msgid "Select which Post Statuses you want to enable %1$s for."
+msgstr "Seleziona gli stati dei post per i quali vuoi abilitare %1$s ."
+
+#: languages/broken-link-checker-seo.php:482
+msgid "Post Types"
+msgstr "Tipi di post"
+
+#: languages/broken-link-checker-seo.php:479
+msgid "Post Title"
+msgstr "Titolo del post"
+
+#: languages/broken-link-checker-seo.php:273
+msgid "Exclude Posts"
+msgstr "Escludi i post"
+
+#: languages/broken-link-checker-seo.php:475
+msgid "Post Statuses"
+msgstr "Stati dei post"
+
+#: languages/broken-link-checker-seo.php:451
+msgid "Note: These settings only apply to the content of posts; not comments or custom fields."
+msgstr "Nota: Queste impostazioni si applicano solo al contenuto dei post, non ai commenti o ai campi personalizzati."
+
+#: languages/broken-link-checker-seo.php:361
+msgid "Include All Post Types"
+msgstr "Includi tutti i tipi di post"
+
+#: languages/broken-link-checker-seo.php:715
+msgid "Type"
+msgstr "Tipo"
+
+#: languages/broken-link-checker-seo.php:431
+msgid "No thanks"
+msgstr "No, grazie"
+
+#: languages/broken-link-checker-seo.php:309
+msgid "Give feedback"
+msgstr "Lasciaci un feedback"
+
+#: app/Admin/Notices/Review.php:87 languages/broken-link-checker-seo.php:442
+msgid "Nope, maybe later"
+msgstr "No, forse più tardi"
+
+#. Translators: 1 - The plugin name ("Broken Link Checker").
+#: app/Admin/Notices/Review.php:86 languages/broken-link-checker-seo.php:457
+msgid "Ok, you deserve it"
+msgstr "Ok, te lo meriti"
+
+#: languages/broken-link-checker-seo.php:448
+msgid "Not Really..."
+msgstr "Non proprio..."
+
+#: languages/broken-link-checker-seo.php:810
+msgid "Yes, I love it!"
+msgstr "Sì, lo adoro!"
+
+#: app/Utils/Helpers.php:148
+msgid "(no title)"
+msgstr "(senza titolo)"
+
+#: languages/broken-link-checker-seo.php:294
+msgid "Free"
+msgstr "Gratuito"
+
+#. Translators: 1 - The plugin name ("Broken Link Checker").
+#: app/Admin/Notices/Review.php:81 languages/broken-link-checker-seo.php:334
+msgid "Hey, we noticed you have been using %1$s for some time - that’s awesome! Could you please do us a BIG favor and give it a 5-star rating on WordPress to help us spread the word and boost our motivation?"
+msgstr "Ehi, abbiamo notato che usi %1$s da un po' di tempo - è fantastico! Potresti farci un GRANDE favore e dare una valutazione a 5 stelle su WordPress per aiutarci a diffondere la notizia e aumentare la nostra motivazione?"
+
+#. Translators: 1 - Opening HTML bold tag, 2 - Closing HTML bold tag, 3 - The
+#. PHP version, 4 - The current year, 5 - The short plugin name ("AIOSEO"), 6 -
+#. Opening HTML link tag, 7 - Closing HTML link tag.
+#: app/init/notices.php:114
+msgid "%1$sNote:%2$s Support for PHP %3$s will be discontinued in %4$s. After this, if no further action is taken, %5$s functionality will be disabled. %6$sRead more for additional information.%7$s"
+msgstr "%1$sNota:%2$s Il supporto per PHP %3$s sarà interrotto nel %4$s. Se dopo questa data non verranno intraprese ulteriori azioni, la funzionalità di %5$s sarà disabilitata. %6$sLeggi di più per ulteriori informazioni.%7$s"
+
+#. Translators: 1 - The plugin name ("Broken Link Checker").
+#: languages/broken-link-checker-seo.php:43
+msgid "%1$s indexes all links on your site in order to detect broken and redirected links. Before we can start indexing, you first need to connect your account. It only takes a few minutes!"
+msgstr "%1$s indicizza tutti i link presenti sul tuo sito in ordine ai collegamenti interrotti e reindirizzati. Prima di iniziare l'indicizzazione, devi collegare il tuo account. Ci vogliono solo pochi minuti!"
+
+#. Translators: 1 - A plugin name (e.g. "MonsterInsights", "Broken Link
+#. Checker", etc.).
+#: languages/broken-link-checker-seo.php:51
+msgid "%1$s is the perfect WordPress SEO plugin for YOU. Here’s why over 3,000,000+ smart business owners, marketers, and web developers love %2$s plugin for WordPress, and you will too!"
+msgstr "%1$s è il plugin SEO per WordPress perfetto per te. Ecco perché oltre 3.000.000 di imprenditori, marketer e sviluppatori web amano il plugin %2$s per WordPress e lo amerai anche tu!"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: languages/broken-link-checker-seo.php:108
+msgid "Are you enjoying %1$s?"
+msgstr "Ti piace usare %1$s?"
+
+#: languages/broken-link-checker-seo.php:182
+msgid "Connect with your visitors after they leave your website with the leading web push notification software. Over 10,000+ businesses worldwide use PushEngage to send 15 billion notifications each month."
+msgstr "Rimani in contatto con chi ha visitato il tuo sito web: usa il software leader per le notifiche push. Oltre 10.000 aziende in tutto il mondo usano PushEngage per inviare 15 miliardi di notifiche al mese."
+
+#: languages/broken-link-checker-seo.php:488
+msgid "Posts are being scanned for links"
+msgstr "Le pubblicazioni vengono analizzate alla ricerca di link"
